@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- PYQ/General English/","updated":"2025-01-01T17:20:12.631+05:30"}
+{"dg-publish":true,"permalink":"/1- PYQ/General English/","updated":"2025-01-01T17:27:08.395+05:30"}
 ---
 
 # Essay 
@@ -153,7 +153,7 @@
 | out of hand                |
 | a pinch of salt            |
 | down the alley             |
-| at an ==armies==  length   |
+| at an arm's  length        |
 | under the cloud            |
 | in the eye of the storm    |
 | swan song                  |
