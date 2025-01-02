@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/1- PYQ/General Economics 1/","updated":"2025-01-02T19:33:24.623+05:30"}
+{"dg-publish":true,"permalink":"/1- PYQ/General Economics 1/","updated":"2025-01-02T19:50:36.538+05:30"}
 ---
 
 
 # Theory of Consumer Demand
 
-> [!NOTE] Syllabus
+> [!note]- Syllabus
 > - Cardinal utility Analysis :
 > 	- Marginal utility and demand, 
 > 	- Consumer’s surplus, 
@@ -102,7 +102,7 @@
 
 # Theory of Production
 
-> [!NOTE] Syllabus
+> [!note]- Syllabus
 > - Factors of production and Production function.  
 > - Forms of Production Functions : 
 > 	- Cobb Douglas,
@@ -170,7 +170,7 @@
 
 # Theory of Value
 
-> [!NOTE] Syllabus
+> [!note]- Syllabus
 > - Pricing under different market structures, 
 > - public sector pricing,
 > - marginal cost pricing, 
@@ -242,7 +242,7 @@
 
 # Theory of distribution
 
-> [!NOTE] Syllabus
+> [!note]- Syllabus
 > - Neo classical distribution theories; 
 > 	- Marginal productivity theory of determination of factor prices, 
 > 	- Factor shares and adding up problems  , 
@@ -277,7 +277,7 @@
 
 # Welfare Economics
 
-> [!NOTE] Syllabus
+> [!note]- Syllabus
 > - Inter-personal comparison and aggression problem, 
 > - Public goods and externalities,   
 > - Divergence between social and private welfare, 

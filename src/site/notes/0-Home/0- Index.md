@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/0- Index/","tags":["gardenEntry"],"updated":"2025-01-01T17:10:29.409+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/0- Index/","tags":["gardenEntry"],"updated":"2025-01-02T19:49:54.237+05:30"}
 ---
 
 
@@ -8,8 +8,6 @@
 > - This Page is Not Mobile Friendly. Use Computer for Better Navigation.
 > - The work is still in Progress. Learn More about this page [[0-Home/4- About\|Here]] .
 > - Page Tree is on left  &  Table of Content is on right. Click to navigate.
-> - Colourblind  and disable friendly website will be updated soon.
-> 
 
 
 <span style="background:#b1ffff">Important Links</span>
