@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/1- PYQ/","updated":"2025-01-02T19:33:51.789+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/1- PYQ/","updated":"2025-01-02T19:46:32.567+05:30"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 | Paper | Name                    |
 | ----- | ----------------------- |
-| GE 1  | [[1- PYQ/General Economics\|General Economics]] |
+| GE 1  | [[1- PYQ/General Economics 1\|General Economics 1]] |
 | GE 2  | [[1- PYQ/General Economics 2\|General Economics 2]] |
 | GE 3  | [[1- PYQ/General Economics 3\|General Economics 3]] |
 | GE 4  | [[1- PYQ/General Economics 4\|General Economics 4]] |
