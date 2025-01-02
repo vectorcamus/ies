@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/1- PYQ/","updated":"2025-01-02T19:46:32.567+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/1- PYQ/","updated":"2025-01-02T21:32:02.819+05:30"}
 ---
 
 
@@ -18,38 +18,38 @@
 ---
 
 
-| Paper | Topic                                                           |
-| ----- | --------------------------------------------------------------- |
-| GE 1  | [[Theory of Consumer Demand\|Theory of Consumer Demand]]                                   |
-| GE 1  | [[Theory of Production\|Theory of Production]]                                        |
-| GE 1  | [[Theory of Value\|Theory of Value]]                                             |
-| GE 1  | [[Theory of Distribution\|Theory of Distribution]]                                      |
-| GE 1  | [[2- Themes/Welfare Economics\|Welfare Economics]]                                           |
-| GE 1  | [[2- Themes/Mathematical , Quantitative Economics\|Mathematical , Quantitative Economics]]                       |
-| GE 1  | [[2- Themes/Statistical and Econometric Methods and Income Distribution\|Statistical and Econometric Methods and Income Distribution]] |
-| GE 2  | [[2- Themes/Economic Thought\|Economic Thought]]                                            |
-| GE 2  | [[2- Themes/Concept of National Income and Social Accounting\|Concept of National Income and Social Accounting]]            |
-| GE 2  | [[2- Themes/Theory of Employment, Output, Inflation, Money and Finance\|Theory of Employment, Output, Inflation, Money and Finance]]  |
-| GE 2  | [[2- Themes/Financial and Capital Market\|Financial and Capital Market]]                                |
-| GE 2  | [[2- Themes/Economic Growth and Development\|Economic Growth and Development]]                             |
-| GE 2  | [[2- Themes/International Economics\|International Economics]]                                     |
-| GE 2  | [[2- Themes/Balance of Payments\|Balance of Payments]]                                         |
-| GE 2  | [[2- Themes/Global Institutions\|Global Institutions]]                                         |
-| GE 3  | [[2- Themes/Public Finance\|Public Finance]]                                              |
-| GE 3  | [[2- Themes/Environmental Economics\|Environmental Economics]]                                     |
-| GE 3  | [[2- Themes/Industrial Economics\|Industrial Economics]]                                        |
-| GE 3  | [[2- Themes/State , Market & Planning\|State , Market & Planning]]                                   |
-| IE    | [[2- Themes/History of Development & Planning\|History of Development & Planning]]                           |
-| IE    | [[2- Themes/Federal Finance\|Federal Finance]]                                             |
-| IE    | [[2- Themes/Budgeting and Fiscal Policy\|Budgeting and Fiscal Policy]]                                 |
-| IE    | [[2- Themes/Poverty, Unemployment and Human Development\|Poverty, Unemployment and Human Development]]                 |
-| IE    | [[2- Themes/Agriculture and Rural development strategies\|Agriculture and Rural development strategies]]                |
-| IE    | [[2- Themes/India’s experience with Urbanization and Migration\|India’s experience with Urbanization and Migration]]          |
-| IE    | [[2- Themes/Industry\|Industry]]                                                    |
-| IE    | [[2- Themes/Foreign Trade\|Foreign Trade]]                                               |
-| IE    | [[2- Themes/Labour\|Labour]]                                                      |
-| IE    | [[2- Themes/Inflation\|Inflation]]                                                   |
-| IE    | [[2- Themes/Money & Banking\|Money & Banking]]                                             |
+| Paper | Topic                                                          |
+| ----- | -------------------------------------------------------------- |
+| GE 1  | [[Theory of Consumer Demand\|Theory of Consumer Demand]]                                  |
+| GE 1  | [[Theory of Production\|Theory of Production]]                                       |
+| GE 1  | [[Theory of Value\|Theory of Value]]                                            |
+| GE 1  | [[Theory of Distribution\|Theory of Distribution]]                                     |
+| GE 1  | [[2- Themes/Welfare Economics\|Welfare Economics]]                                          |
+| GE 1  | [[2- Themes/Mathematics\|Mathematics]]                                                |
+| GE 1  | [[2- Themes/Statistical and Econometrics\|Statistical and Econometrics]]                               |
+| GE 2  | [[2- Themes/Economic Thought\|Economic Thought]]                                           |
+| GE 2  | [[2- Themes/Concept of National Income and Social Accounting\|Concept of National Income and Social Accounting]]           |
+| GE 2  | [[2- Themes/Theory of Employment, Output, Inflation, Money and Finance\|Theory of Employment, Output, Inflation, Money and Finance]] |
+| GE 2  | [[2- Themes/Financial and Capital Market\|Financial and Capital Market]]                               |
+| GE 2  | [[2- Themes/Economic Growth and Development\|Economic Growth and Development]]                            |
+| GE 2  | [[2- Themes/International Economics\|International Economics]]                                    |
+| GE 2  | [[2- Themes/Balance of Payments\|Balance of Payments]]                                        |
+| GE 2  | [[2- Themes/Global Institutions\|Global Institutions]]                                        |
+| GE 3  | [[2- Themes/Public Finance\|Public Finance]]                                             |
+| GE 3  | [[2- Themes/Environmental Economics\|Environmental Economics]]                                    |
+| GE 3  | [[2- Themes/Industrial Economics\|Industrial Economics]]                                       |
+| GE 3  | [[2- Themes/State , Market & Planning\|State , Market & Planning]]                                  |
+| IE    | [[2- Themes/History of Development & Planning\|History of Development & Planning]]                          |
+| IE    | [[2- Themes/Federal Finance\|Federal Finance]]                                            |
+| IE    | [[2- Themes/Budgeting and Fiscal Policy\|Budgeting and Fiscal Policy]]                                |
+| IE    | [[2- Themes/Poverty, Unemployment and Human Development\|Poverty, Unemployment and Human Development]]                |
+| IE    | [[2- Themes/Agriculture and Rural development strategies\|Agriculture and Rural development strategies]]               |
+| IE    | [[2- Themes/India’s experience with Urbanization and Migration\|India’s experience with Urbanization and Migration]]         |
+| IE    | [[2- Themes/Industry\|Industry]]                                                   |
+| IE    | [[2- Themes/Foreign Trade\|Foreign Trade]]                                              |
+| IE    | [[2- Themes/Labour\|Labour]]                                                     |
+| IE    | [[2- Themes/Inflation\|Inflation]]                                                  |
+| IE    | [[2- Themes/Money & Banking\|Money & Banking]]                                            |
 
 
 ---

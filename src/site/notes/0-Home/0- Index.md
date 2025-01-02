@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/0- Index/","tags":["gardenEntry"],"updated":"2025-01-02T20:41:27.332+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/0- Index/","tags":["gardenEntry"],"updated":"2025-01-02T21:19:51.873+05:30"}
 ---
 
 
 > [!NOTE]
 > 
 > - This Page is Not Mobile Friendly. Use Computer for Better Navigation.
-> - The work is still in Progress. Learn More about this page [[0-Home/4- About\|Here]] .
+> - The work is still in Progress. Learn More about this page [[0-Home/5- About\|Here]] .
 > - Page Tree is on left  &  Table of Content is on right. Click to navigate.
 
 
