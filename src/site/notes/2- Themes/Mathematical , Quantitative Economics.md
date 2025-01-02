@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2- Themes/Mathematical , Quantitative Economics/","updated":"2025-01-02T15:18:03.352+05:30"}
+{"dg-publish":true,"permalink":"/2- Themes/Mathematical , Quantitative Economics/","updated":"2025-01-02T20:59:57.583+05:30"}
 ---
 
-
+# Mathematical , Quantitative Economics
 
 > [!NOTE] Syllabus
 > - Differentiation and Integration and their application in economics

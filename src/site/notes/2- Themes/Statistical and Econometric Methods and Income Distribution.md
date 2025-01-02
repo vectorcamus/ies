@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2- Themes/Statistical and Econometric Methods and Income Distribution/","updated":"2025-01-02T18:30:58.256+05:30"}
+{"dg-publish":true,"permalink":"/2- Themes/Statistical and Econometric Methods and Income Distribution/","updated":"2025-01-02T21:00:27.327+05:30"}
 ---
 
-
+# Statistical and Econometric Methods and Income Distribution
 
 > [!NOTE] Syllabus
 > - Measures of central tendency and Dispersions, 
