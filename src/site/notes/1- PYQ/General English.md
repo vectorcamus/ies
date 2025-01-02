@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- PYQ/General English/","updated":"2025-01-01T17:27:08.395+05:30"}
+{"dg-publish":true,"permalink":"/1- PYQ/General English/","updated":"2025-01-01T20:29:02.169+05:30"}
 ---
 
 # Essay 
@@ -99,185 +99,185 @@
 
 
 
-| Words        |     |
-| ------------ | --- |
-| Austere      |     |
-| Preposterous |     |
-| Provision    |     |
-| Kudos        |     |
-| Foresight    |     |
-| Altercation  |     |
-| Blatantly    |     |
-| Cacophony    |     |
-| Delirious    |     |
-| Invigorate   |     |
-| specious     |     |
-| uncouth      |     |
-| prevaricate  |     |
-| chagrin      |     |
-| connoisseur  |     |
-| austere      |     |
-| loathsome    |     |
-| predicament  |     |
-| supercilious |     |
-| precarious   |     |
-| gregarious   |     |
-| hostility    |     |
-| affluence    |     |
-| boisterous   |     |
-| affinity     |     |
-| acrimony     |     |
-| credulous    |     |
-| itinerant    |     |
-| precarious   |     |
-| bereavement  |     |
-| recondite    |     |
-| largesse     |     |
-| macabre      |     |
-| zealot       |     |
-| disingenuous |     |
-| Prefatory    |     |
-| Ostentatious |     |
-| Expatriate   |     |
-| Lascivious   |     |
-| Nemesis      |     |
+| Words        |      |
+| ------------ | ---- |
+| Austere      | 2024 |
+| Preposterous | 2024 |
+| Provision    | 2024 |
+| Kudos        | 2024 |
+| Foresight    | 2024 |
+| Altercation  | 2023 |
+| Blatantly    | 2023 |
+| Cacophony    | 2023 |
+| Delirious    | 2023 |
+| Invigorate   | 2023 |
+| specious     | 2022 |
+| uncouth      | 2022 |
+| prevaricate  | 2022 |
+| chagrin      | 2022 |
+| connoisseur  | 2022 |
+| austere      | 2021 |
+| loathsome    | 2021 |
+| predicament  | 2021 |
+| supercilious | 2021 |
+| precarious   | 2021 |
+| gregarious   | 2020 |
+| hostility    | 2020 |
+| affluence    | 2020 |
+| boisterous   | 2020 |
+| affinity     | 2020 |
+| acrimony     | 2019 |
+| credulous    | 2019 |
+| itinerant    | 2019 |
+| precarious   | 2019 |
+| bereavement  | 2019 |
+| recondite    | 2018 |
+| largesse     | 2018 |
+| macabre      | 2018 |
+| zealot       | 2018 |
+| disingenuous | 2018 |
+| Prefatory    | 2017 |
+| Ostentatious | 2017 |
+| Expatriate   | 2017 |
+| Lascivious   | 2017 |
+| Nemesis      | 2017 |
 
 # Idioms / Phrasal Verb
 
-|                            |
-| -------------------------- |
-| blessing in disguise       |
-| at the drop of a hat       |
-| far cry from               |
-| the last straw             |
-| out of hand                |
-| a pinch of salt            |
-| down the alley             |
-| at an arm's  length        |
-| under the cloud            |
-| in the eye of the storm    |
-| swan song                  |
-| in sync with               |
-| to smell a rat             |
-| go to the dogs             |
-| to break the ice           |
-| burning question           |
-| at loggerheads             |
-| to laugh in (one's) sleeve |
-| left in the lurch          |
-| see off                    |
-| a vested interest          |
-| at cross purposes          |
-| at a loss for words        |
-| look down on/upon          |
-| put across                 |
-| fall through               |
-| throw a spanner            |
-| go overboard               |
-| come a cropper             |
-| drive home                 |
-| infringe upon              |
-| hear on the grapevine      |
-| fend for                   |
-| caught in the crossfire    |
-| go off at a tangent        |
-| make away with             |
-| play fast and loose        |
-| set off the hook           |
-| eating humble pie          |
-| square pegs in round holes |
+| Question                   | Year |
+| -------------------------- | ---- |
+| blessing in disguise       | 2024 |
+| at the drop of a hat       | 2024 |
+| far cry from               | 2024 |
+| the last straw             | 2024 |
+| out of hand                | 2024 |
+| a pinch of salt            | 2023 |
+| down the alley             | 2023 |
+| at an arm's  length        | 2023 |
+| under the cloud            | 2023 |
+| in the eye of the storm    | 2023 |
+| swan song                  | 2022 |
+| in sync with               | 2022 |
+| to smell a rat             | 2022 |
+| go to the dogs             | 2022 |
+| to break the ice           | 2022 |
+| burning question           | 2021 |
+| at loggerheads             | 2021 |
+| to laugh in (one's) sleeve | 2021 |
+| left in the lurch          | 2021 |
+| see off                    | 2021 |
+| a vested interest          | 2020 |
+| at cross purposes          | 2020 |
+| at a loss for words        | 2020 |
+| look down on/upon          | 2020 |
+| put across                 | 2020 |
+| fall through               | 2019 |
+| throw a spanner            | 2019 |
+| go overboard               | 2019 |
+| come a cropper             | 2019 |
+| drive home                 | 2019 |
+| infringe upon              | 2018 |
+| hear on the grapevine      | 2018 |
+| fend for                   | 2018 |
+| caught in the crossfire    | 2018 |
+| go off at a tangent        | 2018 |
+| make away with             | 2017 |
+| play fast and loose        | 2017 |
+| set off the hook           | 2017 |
+| eating humble pie          | 2017 |
+| square pegs in round holes | 2017 |
 
 # Sentence Correction 
 
 
 
-|                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------- |
-| Book you want is out of print.                                                                                 |
-| You have not seen this play, haven't you?                                                                      |
-| Neither the patient nor the doctor were in the ward.                                                           |
-| Two and two makes four.                                                                                        |
-| Let me give you some advise.                                                                                   |
-| Where are your luggages?                                                                                       |
-| Trees fell like nine pines in the strong wind.                                                                 |
-| We scored as many goals as they.                                                                               |
-| Petroleum is a clean fuel as compared to coal, as it burns completely and leaves no residue.                   |
-| She has been living in Delhi since the past twenty years.                                                      |
-| It is a matter of gravest importance.                                                                          |
-| He was hankering for success.                                                                                  |
-| Neither she comes nor she writes.                                                                              |
-| Too many a roadblock can be very frustrative for drivers.                                                      |
-| The contents of the box was an enigma for everyone.                                                            |
-| We were happy to see acres and acres of expensive lush green fields.                                           |
-| Even though this pen cost me dearly, it is value for money.                                                    |
-| Everyone must bide by the rules of the game.                                                                   |
-| Your lack in clarity of thought can be detrimental to your welfare.                                            |
-| He coaxed me to agree with his proposal.                                                                       |
-| The shepherd was tending his sheeps.                                                                           |
-| I do not understand why he is so angry at me.                                                                  |
-| What is the time in your watch ?                                                                               |
-| Look at the correct meaning of the word in the dictionary.                                                     |
-| I avoid to go there.                                                                                           |
-| He or his friends has done this.                                                                               |
-| Mr. Sharnla was accused for murder.                                                                            |
-| He says that he owns a car beside a scooter.                                                                   |
-| He is a coward fellow.                                                                                         |
-| The children thought of making merry but the rain spoiled there dream.                                         |
-| He has promised to lend us some money, isn't it ?                                                              |
-| According to me we should spend more money on education.                                                       |
-| She returned back after sometime.                                                                              |
-| Most shopkeepers in the mall deal with jewellery and fashion items.                                            |
-| The teacher asked the new student what was his name. Neither the convict nor his lawyer were present.          |
-| Neither the convict nor his lawyer were present.                                                               |
-| We need to buy more stationery for our office.                                                                 |
-| If it will rain, ==we== come and meet you in the car.                                                          |
-| Time and tide waits for none.                                                                                  |
-| I doubt that he will be able to accomplish the task in time.                                                   |
-| I did not like him disturbing me at that late hour.                                                            |
-| Death is preferable than dishonour.                                                                            |
-| He is enough wise to understand the situation.                                                                 |
-| He is seldom or ever to be seen at his shop.                                                                   |
-| The teacher has not yet entered into the classroom.                                                            |
-| I am prepared to say it at his face.                                                                           |
-| He insisted to leave immediately.                                                                              |
-| He always says the truth.                                                                                      |
-| Wealth is only means, the end is happiness.                                                                    |
-| I doubt that he will come.                                                                                     |
-| His daughter-in-law is a M.A. in English.                                                                      |
-| Rina has been deprived from her share in her father's property.                                                |
-| All the books in the old library has perished.                                                                 |
-| The aggrieved man said that he will not forgive the wrong-doer.                                                |
-| Despite of the doctor's advice. he smoked.                                                                     |
-| The principal could not attend the meeting in account of illness.                                              |
-| In the court-room the advocate referred an old case.                                                           |
-| The old man was so weak to climb the stairs.                                                                   |
-| My father has stopped living in the official quarter.                                                          |
-| They cannot issue the ticket unless you do not pay the fare.                                                   |
-| My friend reached the airport on time to have a coffee before boarding.                                        |
-| He was found guilty of stealing his employer.                                                                  |
-| Sonu got a present from his father but he hasn't opened it.                                                    |
-| I am obliged to serve him, isn't it ?                                                                          |
-| I would watch a football match than a cricket series.                                                          |
-| They were annoyed at not to be able to see the puppet show properly.                                           |
-| The economics of the plan is worrying the investors.                                                           |
-| He got up at 5 o'clock not to be late for the interview.                                                       |
-| If they offered me the position, I shall decline it.                                                           |
-| I go to the work in afternoon.                                                                                 |
-| Shocked of finding an unknown person, the army officer briskly caught hold of him.                             |
-| High population growing rate is one of the major reasons of poverty in India.                                  |
-| He decided to reveal the corruption in his department to the media.                                            |
-| I would have waited for you at the station if I knew that you would come.                                      |
-| Although my car is expensive, I had a lot of trouble with it.                                                  |
-| He would have lent me some money if he was knowing that I had lost everything.                                 |
-| No sooner the news reached him than he fainted.                                                                |
-| According to the Census Bureau, India will have a more problem.                                                |
-| Mr. Misra said that he is doing fine now.                                                                      |
-| Non-teaching staffs of the college are agitating for their demands.                                            |
-| The President of France has left India yesterday.                                                              |
-| Rahul stays with his parents in the Railway quarter.                                                           |
-| He went on committing crime after crime and in spite of my best efforts I could not prevent him from doing so. |
-| To transport goods by the sea is cheaper than land.                                                            |
-| It is a penal offence bribing a public servant.                                                                |
+| Question                                                                                                       | Year |
+| -------------------------------------------------------------------------------------------------------------- | ---- |
+| Book you want is out of print.                                                                                 | 2024 |
+| You have not seen this play, haven't you?                                                                      | 2024 |
+| Neither the patient nor the doctor were in the ward.                                                           | 2024 |
+| Two and two makes four.                                                                                        | 2024 |
+| Let me give you some advise.                                                                                   | 2024 |
+| Where are your luggages?                                                                                       | 2024 |
+| Trees fell like nine pines in the strong wind.                                                                 | 2024 |
+| We scored as many goals as they.                                                                               | 2024 |
+| Petroleum is a clean fuel as compared to coal, as it burns completely and leaves no residue.                   | 2024 |
+| She has been living in Delhi since the past twenty years.                                                      | 2024 |
+| It is a matter of gravest importance.                                                                          | 2023 |
+| He was hankering for success.                                                                                  | 2023 |
+| Neither she comes nor she writes.                                                                              | 2023 |
+| Too many a roadblock can be very frustrative for drivers.                                                      | 2023 |
+| The contents of the box was an enigma for everyone.                                                            | 2023 |
+| We were happy to see acres and acres of expensive lush green fields.                                           | 2023 |
+| Even though this pen cost me dearly, it is value for money.                                                    | 2023 |
+| Everyone must bide by the rules of the game.                                                                   | 2023 |
+| Your lack in clarity of thought can be detrimental to your welfare.                                            | 2023 |
+| He coaxed me to agree with his proposal.                                                                       | 2023 |
+| The shepherd was tending his sheeps.                                                                           | 2022 |
+| I do not understand why he is so angry at me.                                                                  | 2022 |
+| What is the time in your watch ?                                                                               | 2022 |
+| Look at the correct meaning of the word in the dictionary.                                                     | 2022 |
+| I avoid to go there.                                                                                           | 2022 |
+| He or his friends has done this.                                                                               | 2022 |
+| Mr. Sharnla was accused for murder.                                                                            | 2022 |
+| He says that he owns a car beside a scooter.                                                                   | 2022 |
+| He is a coward fellow.                                                                                         | 2022 |
+| The children thought of making merry but the rain spoiled there dream.                                         | 2022 |
+| He has promised to lend us some money, isn't it ?                                                              | 2021 |
+| According to me we should spend more money on education.                                                       | 2021 |
+| She returned back after sometime.                                                                              | 2021 |
+| Most shopkeepers in the mall deal with jewellery and fashion items.                                            | 2021 |
+| The teacher asked the new student what was his name. Neither the convict nor his lawyer were present.          | 2021 |
+| Neither the convict nor his lawyer were present.                                                               | 2021 |
+| We need to buy more stationery for our office.                                                                 | 2021 |
+| If it will rain, ==we== come and meet you in the car.                                                          | 2021 |
+| Time and tide waits for none.                                                                                  | 2021 |
+| I doubt that he will be able to accomplish the task in time.                                                   | 2021 |
+| I did not like him disturbing me at that late hour.                                                            | 2020 |
+| Death is preferable than dishonour.                                                                            | 2020 |
+| He is enough wise to understand the situation.                                                                 | 2020 |
+| He is seldom or ever to be seen at his shop.                                                                   | 2020 |
+| The teacher has not yet entered into the classroom.                                                            | 2020 |
+| I am prepared to say it at his face.                                                                           | 2020 |
+| He insisted to leave immediately.                                                                              | 2020 |
+| He always says the truth.                                                                                      | 2020 |
+| Wealth is only means, the end is happiness.                                                                    | 2020 |
+| I doubt that he will come.                                                                                     | 2020 |
+| His daughter-in-law is a M.A. in English.                                                                      |      |
+| Rina has been deprived from her share in her father's property.                                                |      |
+| All the books in the old library has perished.                                                                 |      |
+| The aggrieved man said that he will not forgive the wrong-doer.                                                |      |
+| Despite of the doctor's advice. he smoked.                                                                     | 2019 |
+| The principal could not attend the meeting in account of illness.                                              | 2019 |
+| In the court-room the advocate referred an old case.                                                           | 2019 |
+| The old man was so weak to climb the stairs.                                                                   | 2019 |
+| My father has stopped living in the official quarter.                                                          | 2019 |
+| They cannot issue the ticket unless you do not pay the fare.                                                   | 2019 |
+| My friend reached the airport on time to have a coffee before boarding.                                        | 2019 |
+| He was found guilty of stealing his employer.                                                                  | 2019 |
+| Sonu got a present from his father but he hasn't opened it.                                                    | 2019 |
+| I am obliged to serve him, isn't it ?                                                                          | 2019 |
+| I would watch a football match than a cricket series.                                                          | 2018 |
+| They were annoyed at not to be able to see the puppet show properly.                                           | 2018 |
+| The economics of the plan is worrying the investors.                                                           | 2018 |
+| He got up at 5 o'clock not to be late for the interview.                                                       | 2018 |
+| If they offered me the position, I shall decline it.                                                           | 2018 |
+| I go to the work in afternoon.                                                                                 | 2018 |
+| Shocked of finding an unknown person, the army officer briskly caught hold of him.                             | 2018 |
+| High population growing rate is one of the major reasons of poverty in India.                                  | 2018 |
+| He decided to reveal the corruption in his department to the media.                                            | 2018 |
+| I would have waited for you at the station if I knew that you would come.                                      | 2018 |
+| Although my car is expensive, I had a lot of trouble with it.                                                  | 2018 |
+| He would have lent me some money if he was knowing that I had lost everything.                                 | 2017 |
+| No sooner the news reached him than he fainted.                                                                | 2017 |
+| According to the Census Bureau, India will have a more problem.                                                | 2017 |
+| Mr. Misra said that he is doing fine now.                                                                      | 2017 |
+| Non-teaching staffs of the college are agitating for their demands.                                            | 2017 |
+| The President of France has left India yesterday.                                                              | 2017 |
+| Rahul stays with his parents in the Railway quarter.                                                           | 2017 |
+| He went on committing crime after crime and in spite of my best efforts I could not prevent him from doing so. | 2017 |
+| To transport goods by the sea is cheaper than land.                                                            | 2017 |
+| It is a penal offence bribing a public servant.                                                                | 2017 |
 
 # Précis 
 
