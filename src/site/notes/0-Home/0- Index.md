@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/0- Index/","tags":["gardenEntry"],"updated":"2025-01-02T19:49:54.237+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/0- Index/","tags":["gardenEntry"],"updated":"2025-01-02T20:15:10.959+05:30"}
 ---
 
 
@@ -12,10 +12,10 @@
 
 <span style="background:#b1ffff">Important Links</span>
 
-| Index                       | Description                                                                                       | Status            |
-| --------------------------- | ------------------------------------------------------------------------------------------------- | ----------------- |
-| [[0-Home/1- PYQ\|PYQ]]             | <span style="background:#affad1">Topic Wise segregation of Past Year Questions & Solutions</span> | #Incomplete       |
-| [[0-Home/2- Syllabus\|Syllabus]]   | <span style="background:#b1ffff">Syllabus for IES</span>                                          | #Updated          |
-| [[0-Home/3- Reference\|Reference]] | <span style="background:#fff88f">Topic wise Reference</span>                                      | #Work_in_Progress |
+| Index                       | Description                                                                                       | Status         |
+| --------------------------- | ------------------------------------------------------------------------------------------------- | -------------- |
+| [[0-Home/1- PYQ\|PYQ]]             | <span style="background:#affad1">Topic Wise segregation of Past Year Questions & Solutions</span> | ==Incomplete== |
+| [[0-Home/2- Syllabus\|Syllabus]]   | <span style="background:#b1ffff">Syllabus for IES</span>                                          | ==Updated==    |
+| [[0-Home/3- Reference\|Reference]] | <span style="background:#fff88f">Topic wise Reference</span>                                      | ==Incomplete== |
 
 
