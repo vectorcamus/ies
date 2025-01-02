@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/2- Syllabus/","updated":"2025-01-02T20:22:28.341+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/2- Syllabus/","updated":"2025-01-02T20:54:42.923+05:30"}
 ---
 
 
@@ -35,6 +35,7 @@
 
 
 ### Theory of Value: 
+
 - Pricing under different market structures
 - public sector pricing
 - marginal cost pricing
@@ -56,7 +57,9 @@
 	- Marx
 	- Kaldor
 	- Kalecki. 
+
 ### 5. Welfare Economics: 
+
 - Inter-personal comparison and aggression problem
 - Public goods and externalities
 - Divergence between social and private welfare
@@ -101,14 +104,50 @@
 # GE 2
 
 ## Economic Thought: 
-- Mercantilism Physiocrats, Classical, Marxist, Neo-classical, Keynesian and Monetarist schools of thought. 
+
+- Mercantilism, 
+- Physiocrats, 
+- Classical, 
+- Marxist, 
+- Neo-classical, 
+- Keynesian and 
+- Monetarist schools of thought. 
+
 ## Concept of National Income and Social Accounting: 
-- Measurement of National Income, Inter relationship between three measures of national income in the presence of Government sector and International transactions. Environmental considerations, Green national income. 
+
+- Measurement of National Income,
+- Inter relationship between three measures of national income in the presence of Government sector and International transactions. 
+- Environmental considerations, Green national income. 
+
 ## Theory of employment, Output, Inflation, Money and Finance: 
-- The Classical theory of Employment and Output and Neo classical approaches. Equilibrium, analysis under classical and neo classical approach. Keynesian theory of Employment and Output. Post Keynesian developments. The inflationary gap; Demand pull versus cost push inflation, the Philip’s curve and its policy implication. Classical theory of Money, Quantity theory of Money. Friedman’s restatement of the quantity theory, the neutrality of money. The supply and demand for loanable funds and equilibrium in financial markets, Keynes’ theory on demand for money. IS-LM Model and AD-AS Model in Keynesian Theory. 
+
+- The Classical theory of Employment and Output and Neo classical approaches. 
+- Equilibrium analysis under classical and neo classical approach. 
+- Keynesian theory of Employment and Output. 
+- Post Keynesian developments. 
+- The inflationary gap; 
+	- Demand pull versus cost push inflation, 
+	- the Philip’s curve and its policy implication. 
+- Classical theory of Money, 
+- Quantity theory of Money. 
+- Friedman’s restatement of the quantity theory, 
+- the neutrality of money. 
+- The supply and demand for loanable funds and equilibrium in financial markets, 
+- Keynes’ theory on demand for money. 
+- IS-LM Model and AD-AS Model in Keynesian Theory. 
+
 ## Financial and Capital Market: 
-- Finance and economic development, financial markets, stock market, gilt market, banking and insurance. Equity markets, Role of primary and secondary markets and efficiency, Derivatives markets; Future and options. 
+
+- Finance and economic development, 
+- financial markets, stock market, 
+- gilt market, 
+- banking and insurance. 
+- Equity markets, 
+- Role of primary and secondary markets and efficiency, 
+- Derivatives markets; Future and options. 
+
 ## Economic Growth and Development: 
+
 - Concepts of Economic Growth and Development and their measurement: 
 - characteristics of less developed countries and obstacles to their development – 
 	- growth, 
@@ -137,49 +176,194 @@
 - The Human Development Index. 
 - Physical quality of Life Index and Human Poverty Index. 
 - Basics of Endogenous Growth Theory. 
+
 ## International Economics: 
-- Gains from International Trade, Terms of Trade, policy, international trade and economic development- Theories of International Trade; Ricardo, Haberler, Heckscher- Ohlin and Stopler- Samuelson- Theory of Tariffs- Regional Trade Arrangements. Asian Financial Crisis of 1997, Global Financial Crisis of 2008 and Euro Zone Crisis- Causes and Impact. 
+
+- Gains from International Trade, 
+- Terms of Trade, 
+- policy, 
+- international trade and economic development
+- Theories of International Trade; 
+	- Ricardo, 
+	- Haberler, 
+	- Heckscher- Ohlin and 
+	- Stopler- Samuelson
+- Theory of Tariffs- 
+- Regional Trade Arrangements. 
+- Asian Financial Crisis of 1997, 
+- Global Financial Crisis of 2008 and 
+- Euro Zone Crisis- Causes and Impact. 
+
 ## Balance of Payments: 
-- Disequilibrium in Balance of Payments, Mechanism of Adjustments, Foreign Trade Multiplier, Exchange Rates, Import and Exchange Controls and Multiple Exchange Rates. IS-LM Model and Mundell- Fleming Model of Balance of Payments. 
+
+- Disequilibrium in Balance of Payments, 
+- Mechanism of Adjustments, 
+- Foreign Trade Multiplier, 
+- Exchange Rates, 
+- Import and Exchange Controls and Multiple Exchange Rates. 
+- IS-LM Model and Mundell Fleming Model of Balance of Payments. 
+
 ## Global Institutions: 
-- UN agencies dealing with economic aspects, role of Multilateral Development Bodies (MDBs), such as World Bank, IMF and WTO, Multinational Corporations. G-20.
+
+- UN agencies dealing with economic aspects, 
+- role of Multilateral Development Bodies (MDBs), such as 
+	- World Bank, 
+	- IMF and 
+	- WTO, 
+	- Multinational Corporations. 
+- G-20.
+
 # GE 3
 
 ## Public Finance 
-1. Theories of taxation: Optimal taxes and tax reforms, incidence of taxation. 
-2. Theories of public expenditure: objectives and effects of public expenditure, public expenditure policy and social cost benefit analysis, criteria of public investment decisions, social rate of discount, shadow prices of investment, unskilled labour and foreign exchange. Budgetary deficits. 
-3. Theory of public debt management. 
+
+- Theories of taxation: 
+	- Optimal taxes and tax reforms, 
+	- incidence of taxation. 
+- Theories of public expenditure:
+	- objectives and effects of public expenditure, 
+	- public expenditure policy and social cost benefit analysis, 
+	- criteria of public investment decisions, 
+	- social rate of discount, shadow prices of investment, 
+	- unskilled labour and foreign exchange. 
+	- Budgetary deficits. 
+- Theory of public debt management. 
 ## Environmental Economics
-1. Environmentally sustainable development, Rio process 1992 to 2012, Green GDP, UN Methodology of Integrated Environmental and Economic Accounting. Environmental Values: Users and Non-Users values, option value. Valuation Methods: Stated and revealed preference methods. Design of Environmental Policy Instruments: Pollution taxes and Pollution permits, collective action and informal regulation by local communities. Theories of exhaustible and renewable resources. International environmental agreements, RIO Conventions. Climatic change problems. Kyoto protocol, UNFCC, Bali Action Plan, Agreements up to 2017, tradable permits and carbon taxes. Carbon Markets and Market Mechanisms. Climate Change Finance and Green Climate Fund. 
+- Environmentally sustainable development, 
+- Rio process 1992 to 2012, 
+- Green GDP, 
+- UN Methodology of Integrated Environmental and Economic Accounting. 
+- Environmental Values: 
+	- Users and Non-Users values, 
+	- option value. 
+	- Valuation Methods: 
+		- Stated and 
+		- revealed preference methods. 
+- Design of Environmental Policy Instruments: 
+	- Pollution taxes and Pollution permits, 
+	- collective action and informal regulation by local communities. 
+- Theories of exhaustible and renewable resources.
+- International environmental agreements,
+- RIO Conventions. 
+- Climatic change problems. 
+- Kyoto protocol, 
+- UNFCC, 
+- Bali Action Plan, 
+- Agreements up to 2017, 
+- tradable permits and carbon taxes. Carbon Markets and Market Mechanisms. 
+- Climate Change Finance and Green Climate Fund. 
+
 ## Industrial Economics
-1. Market structure, conduct and performance of firms, product differentiation and market concentration, monopolistic price theory and oligopolistic interdependence and pricing, entry preventing pricing, micro level investment decisions and the behaviour of firms, research and development and innovation, market structure and profitability, public policy and development of firms. 
+
+- Market structure, 
+- conduct and performance of firms, 
+- product differentiation and market concentration, 
+- monopolistic price theory and oligopolistic interdependence and pricing, 
+- entry preventing pricing, micro level investment decisions and the behaviour of firms, 
+- research and development and innovation, 
+- market structure and profitability, 
+- public policy and development of firms. 
+
 ## State, Market and Planning
-1. Planning in a developing economy. Planning regulation and market. Indicative planning. Decentralised planning. 
+
+- Planning in a developing economy. 
+- Planning regulation and market. 
+- Indicative planning. 
+- Decentralised planning. 
 
 
 
 # IE 
 
 
-## 1. History of development and planning
-1. Alternative development strategies—goal of self-reliance based on import substitution and protection, the post-1991 globalisation strategies based on stabilisation and structural adjustment packages: fiscal reforms, financial sector reforms and trade reforms. 
-## 2. Federal Finance
-1. Constitutional provisions relating to fiscal and financial powers of the states, Finance Commissions and their formulae for sharing taxes, Financial aspect of Sarkaria Commission Report, Financial aspects of 73rd and 74th Constitutional Amendments. 
-## 2. Budgeting and Fiscal Policy
-1. Tax, expenditure, budgetary deficits, pension and fiscal reforms, Public debt management and reforms, Fiscal Responsibility and Budget Management (FRBM) Act, Black money and Parallel economy in India—definition, estimates, genesis, consequences and remedies. 
-## 2. Poverty, Unemployment and Human Development
-1. Estimates of inequality and poverty measures for India, appraisal of Government measures, India’s human development record in global perspective. India’s population policy and development. 
-## 2. Agriculture and Rural Development Strategies
-1. Technologies and institutions, land relations and land reforms, rural credit, modern farm inputs and marketing— price policy and subsidies; commercialisation and diversification. Rural development programmes including poverty alleviation programmes, development of economic and social infrastructure and New Rural Employment Guarantee Scheme. 
-## 2. India’s experience with Urbanisation and Migration
-1. Different types of migratory flows and their impact on the economies of their origin and destination, the process of growth of urban settlements; urban development strategies. 
-## 2. Industry: Strategy of industrial development
-1. Industrial Policy Reform; Reservation Policy relating to small scale industries. Competition policy, Sources of industrial finance. Bank, share market, insurance companies, pension funds, non-banking sources and foreign direct investment, role of foreign capital for direct investment and portfolio investment, Public sector reform, privatisation and disinvestment. 
-## 2. Labour
-1. Employment, unemployment and underemployment, industrial relations and labour welfare— strategies for employment generation—Urban labour market and informal sector employment, Report of National Commission on Labour, Social issues relating to labour e.g. Child Labour, Bonded Labour International Labour Standard and its impact. 9. Foreign trade—Salient features of India’s foreign trade, composition, direction and organisation of trade, recent changes in trade, balance of payments, tariff policy, exchange rate, India and WTO requirements. Bilateral Trade Agreements and their implications. 
-## 2. Money and Banking
-1. Financial sector reforms, Organisation of India’s money market, changing roles of the Reserve Bank of India, commercial banks, development finance institutions, foreign banks and non-banking financial institutions, Indian capital market and SEBI, Development in Global Financial Market and its relationship with Indian Financial Sector. 
-	2. Commodity Market in India-Spot and Futures Market, Role of FMC. 
-## 2. Inflation
-1. Definition, trends, estimates, consequences and remedies (control): Wholesale Price Index. 
-	1. Consumer Price Index: components and trends.
+## History of development and planning
+
+- Alternative development strategies - goal of self-reliance based on import substitution and protection, 
+- the post-1991 globalisation strategies based on stabilisation and structural adjustment packages: 
+	- fiscal reforms, 
+	- financial sector reforms and 
+	- trade reforms. 
+
+## Federal Finance
+
+- Constitutional provisions relating to fiscal and financial powers of the states, 
+- Finance Commissions and their formulae for sharing taxes, 
+- Financial aspect of Sarkaria Commission Report, 
+- Financial aspects of 73rd and 74th Constitutional Amendments. 
+
+## Budgeting and Fiscal Policy
+
+- Tax, expenditure, 
+- budgetary deficits, 
+- pension and fiscal reforms, 
+- Public debt management and reforms,
+- Fiscal Responsibility and Budget Management (FRBM) Act, 
+- Black money and Parallel economy in India- 
+	- definition, 
+	- estimates, 
+	- genesis, 
+	- consequences and 
+	- remedies. 
+
+## Poverty, Unemployment and Human Development
+
+- Estimates of inequality and poverty measures for India, 
+- appraisal of Government measures, 
+- India’s human development record in global perspective. 
+- India’s population policy and development. 
+
+## Agriculture and Rural Development Strategies
+
+- Technologies and institutions, 
+- land relations and land reforms, 
+- rural credit, 
+- modern farm inputs and marketing - price policy and subsidies; 
+- commercialisation and diversification. 
+- Rural development programmes including poverty alleviation programmes, 
+- development of economic and social infrastructure and 
+- New Rural Employment Guarantee Scheme. 
+
+## India’s experience with Urbanisation and Migration
+
+- Different types of migratory flows and their impact on the economies of their origin and destination,
+- the process of growth of urban settlements; 
+- urban development strategies. 
+
+## Industry: Strategy of industrial development
+
+- Industrial Policy Reform; 
+- Reservation Policy relating to small scale industries. 
+- Competition policy, 
+- Sources of industrial finance. 
+- Bank, 
+- share market, 
+- insurance companies, 
+- pension funds, 
+- non-banking sources and foreign direct investment,
+- role of foreign capital for direct investment and portfolio investment, 
+- Public sector reform, 
+- privatisation and disinvestment. 
+
+## Labour
+
+- Employment, unemployment and underemployment, 
+- industrial relations and labour welfare 
+- strategies for employment generation
+- Urban labour market and informal sector employment, 
+- Report of National Commission on Labour, 
+- Social issues relating to labour e.g. Child Labour, Bonded Labour International Labour Standard and its impact. 
+
+###  Foreign trade
+
+- Salient features of India’s foreign trade, composition, direction and organisation of trade, recent changes in trade, balance of payments, tariff policy, exchange rate, India and WTO requirements. 
+- Bilateral Trade Agreements and their implications. 
+
+## Money and Banking
+
+- Financial sector reforms, Organisation of India’s money market, changing roles of the Reserve Bank of India, commercial banks, development finance institutions, foreign banks and non-banking financial institutions, Indian capital market and SEBI, Development in Global Financial Market and its relationship with Indian Financial Sector. 
+- Commodity Market in India-Spot and Futures Market, Role of FMC. 
+
+## Inflation
+
+- Definition, trends, estimates, consequences and remedies (control): Wholesale Price Index. 
+- Consumer Price Index: components and trends.
