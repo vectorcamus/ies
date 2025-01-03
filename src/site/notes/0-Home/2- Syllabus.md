@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/2- Syllabus/","updated":"2025-01-02T20:54:42.923+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/2- Syllabus/"}
 ---
 
 
