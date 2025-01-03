@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/1- PYQ/General English/"}
 ---
 
+| Version  | Link                                                                                                |
+| -------- | --------------------------------------------------------------------------------------------------- |
+| Markdown | [Github](https://github.com/vectorcamus/ies/blob/main/src/site/notes/1-%20PYQ/General%20English.md) |
+| PDF      | Drive                                                                                               |
+
 # Essay 
 
 

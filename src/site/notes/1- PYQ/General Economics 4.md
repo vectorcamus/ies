@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/1- PYQ/General Economics 4/"}
 ---
 
+| Version  | Link                                                                                                      |
+| -------- | --------------------------------------------------------------------------------------------------------- |
+| Markdown | [Github](https://github.com/vectorcamus/ies/blob/main/src/site/notes/1-%20PYQ/General%20Economics%204.md) |
+| PDF      | Drive                                                                                                     |
+
 
 # History of Development and Planning : 
 
