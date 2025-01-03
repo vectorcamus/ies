@@ -5,7 +5,7 @@
 
 > [!NOTE]
 > 
-> - This Page is Not Mobile Friendly. Use Computer for Better Navigation.
+> - This Page is Not Mobile Friendly. Use <font color="#ff0000">Computer</font> for Better Navigation.
 > - The work is still in Progress. Learn More about this page [[0- Home/5- About\|Here]] .
 > - Page Tree is on left  &  Table of Content is on right. Click to navigate.
 
