@@ -3,6 +3,13 @@
 ---
 
 
+
+| Version  | Link                                                                                                      |
+| -------- | --------------------------------------------------------------------------------------------------------- |
+| Markdown | [Github](https://github.com/vectorcamus/ies/blob/main/src/site/notes/1-%20PYQ/General%20Economics%201.md) |
+| PDF      | [Request Drive]()                                                                                         |
+
+
 # Theory of Consumer Demand
 
 > [!NOTE] Syllabus
