@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/0- Home/1- PYQ/"}
 ---
 
+> Individual & Compiled answers will be updated soon. 
 
 ## Topic Wise
 
@@ -20,10 +21,10 @@
 
 | Paper | Topic                                                          |
 | ----- | -------------------------------------------------------------- |
-| GE 1  | [[Theory of Consumer Demand\|Theory of Consumer Demand]]                                  |
-| GE 1  | [[Theory of Production\|Theory of Production]]                                       |
-| GE 1  | [[Theory of Value\|Theory of Value]]                                            |
-| GE 1  | [[Theory of Distribution\|Theory of Distribution]]                                     |
+| GE 1  | [[2- Themes/Theory of Consumer Demand\|Theory of Consumer Demand]]                                  |
+| GE 1  | [[2- Themes/Theory of Production\|Theory of Production]]                                       |
+| GE 1  | [[2- Themes/Theory of Value\|Theory of Value]]                                            |
+| GE 1  | [[2- Themes/Theory of Distribution\|Theory of Distribution]]                                     |
 | GE 1  | [[2- Themes/Welfare Economics\|Welfare Economics]]                                          |
 | GE 1  | [[2- Themes/Mathematics\|Mathematics]]                                                |
 | GE 1  | [[2- Themes/Statistics and Econometrics\|Statistics and Econometrics]]                               |
@@ -59,14 +60,14 @@
 | ----- | -------------------------- |
 | GS    | [[2- Themes/GS History\|GS History]]             |
 | GS    | [[2- Themes/GS Polity\|GS Polity]]              |
-| GS    | [[GS Economy\|GS Economy]]             |
-| GS    | [[GS Geography\|GS Geography]]           |
-| GE    | [[GE Essay\|GE Essay]]               |
-| GE    | [[GE Précis Writing\|GE Précis Writing]]      |
-| GE    | [[GE Paragraph\|GE Paragraph]]           |
-| GE    | [[GE Sentence Formation\|GE Sentence Formation]]  |
-| GE    | [[GE Phrasal Verb\|GE Phrasal Verb]]        |
-| GE    | [[GE Sentence Correction\|GE Sentence Correction]] |
+| GS    | [[2- Themes/GS Economy\|GS Economy]]             |
+| GS    | [[2- Themes/GS Geography\|GS Geography]]           |
+| GE    | [[2- Themes/GE Essay\|GE Essay]]               |
+| GE    | [[2- Themes/GE Précis Writing\|GE Précis Writing]]      |
+| GE    | [[2- Themes/GE Paragraph\|GE Paragraph]]           |
+| GE    | [[2- Themes/GE Sentence Formation\|GE Sentence Formation]]  |
+| GE    | [[2- Themes/GE Phrasal Verb\|GE Phrasal Verb]]        |
+| GE    | [[2- Themes/GE Sentence Correction\|GE Sentence Correction]] |
 
 
 ---

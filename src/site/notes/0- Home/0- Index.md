@@ -7,7 +7,9 @@
 > 
 > - This Page is Not Mobile Friendly. Use <font color="#ff0000">Computer</font> for Better Navigation.
 > - The work is still in Progress. Learn More about this page [[0- Home/5- About\|Here]] .
-> - Page Tree is on left  &  Table of Content is on right. Click to navigate.
+> - Page Tree is on left  &  Table of Content is on right. Click to navigate ; Hover to Preview. 
+> - Suggestive Browser Extensions : [Web Highlights](https://chromewebstore.google.com/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm) , [Print Friendly](https://chromewebstore.google.com/detail/printfriendly-print-and-p/ohlencieiipommannpdfcmfdpjjmeolj) . 
+
 
 
 <span style="background:#b1ffff">Important Links</span>
