@@ -358,9 +358,7 @@
 # Labour 
 
 > [!NOTE] Syllabus
-> - Employment, 
-> - Unemployment and 
-> - Underemployment, 
+> - Employment, Unemployment and Underemployment, 
 > - Industrial relations and Labour welfare Strategies for employment generation
 > - Urban labour market and Informal sector employment, 
 > - Report of National Commission on Labour, 

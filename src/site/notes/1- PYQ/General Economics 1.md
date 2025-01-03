@@ -17,8 +17,7 @@
 > 	- Marginal utility and demand, 
 > 	- Consumer’s surplus, 
 > - Indifference curve Analysis and utility function, 
-> - Price , 
-> - income and substitution effects,   
+> - Price , income and substitution effects,   
 > - Slutsky theorem and derivation of demand curve, 
 > - Revealed preference theory  , 
 > - Duality and indirect utility function and expenditure function. 
@@ -121,9 +120,7 @@
 > 	- CES and 
 > 	- Fixed coefficient type, 
 > 	- Translog production function.   
-> - Laws of return,
-> - Returns to scale and 
-> - Return to factors of production.  
+> - Laws of return, Returns to scale and Return to factors of production.  
 > - Duality and cost function,  
 > - Measures of productive efficiency of firms,  
 > - Technical and allocative efficiency.
@@ -188,11 +185,11 @@
 
 > [!NOTE] Syllabus
 > - Pricing under different market structures, 
-> - public sector pricing,
-> - marginal cost pricing, 
-> - peak load pricing, 
-> - cross-subsidy free pricing and 
-> - average cost pricing.
+> 	- public sector pricing,
+> 	- marginal cost pricing, 
+> 	- peak load pricing, 
+> 	- cross-subsidy free pricing and 
+> 	- average cost pricing.
 > - Marshallian and Walrasian stability analysis. 
 > - Pricing with incomplete information and 
 > - moral hazard problems.
@@ -263,12 +260,12 @@
 
 > [!NOTE] Syllabus
 > - Neo classical distribution theories; 
-> 	- Marginal productivity theory of determination of factor prices, 
-> 	- Factor shares and adding up problems  , 
+> - Marginal productivity theory of determination of factor prices, 
+> - Factor shares and adding up problems  , 
 > - Euler’s theorem,   
 > - Pricing of factors under imperfect competition, 
 > - Monopoly and bilateral monopoly, 
-> - Macro distribution theories of 
+> - Macro distribution theories of : 
 > 	- Ricardo, 
 > 	- Marx, 
 > 	- Kaldor, 

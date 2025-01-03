@@ -16,15 +16,15 @@
 
 | Index                       | Description                                                                                       | Status         |
 | --------------------------- | ------------------------------------------------------------------------------------------------- | -------------- |
-| [[0- Home/1- PYQ\|PYQ]]             | <span style="background:#affad1">Topic Wise segregation of Past Year Questions & Solutions</span> | ==Incomplete== |
-| [[0- Home/2- Syllabus\|Syllabus]]   | <span style="background:#b1ffff">Syllabus for IES</span>                                          | ==Updated==    |
-| [[0- Home/3- Reference\|Reference]] | <span style="background:#fff88f">Topic wise Reference</span>                                      | ==Incomplete== |
+| [[0- Home/1- PYQ\|PYQ]]             | <span style="background:#affad1">Topic Wise segregation of Past Year Questions & Solutions</span> | Incomplete     |
+| [[0- Home/2- Syllabus\|Syllabus]]   | <span style="background:#b1ffff">Syllabus for IES</span>                                          | Updated        |
+| [[0- Home/3- Reference\|Reference]] | <span style="background:#fff88f">Topic wise Reference</span>                                      | Incomplete |
 
 
 # Notification
 
-| Year | Notification | Online Application | Mains Result | Final Results | Seats | Status    |
-| ---- | ------------ | ------------------ | ------------ | ------------- | ----- | --------- |
-| 2025 |              |                    |              |               |       | Upcoming  |
-| 2024 |              |                    |              |               | 18    | Completed |
-| 2023 |              |                    |              |               |       | Completed |
+| Year | Notification | Online Application | Mains Result | Final Results | Seats | Status           |
+| ---- | ------------ | ------------------ | ------------ | ------------- | ----- | ---------------- |
+| 2025 |              |                    |              |               |       | Upcoming         |
+| 2024 |              |                    |              |               | 18    | Result Published |
+| 2023 |              |                    |              |               |       | Result Published |
