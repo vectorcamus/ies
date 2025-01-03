@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2- Themes/Economic Thought/"}
+{"dg-publish":true,"permalink":"/2- Themes/Economic Thought/","updated":"2025-01-03T10:45:09.757+05:30"}
 ---
 
 

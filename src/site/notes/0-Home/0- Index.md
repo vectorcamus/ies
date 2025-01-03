@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/0- Index/","tags":["gardenEntry"],"updated":"2025-01-03T12:33:15.247+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/0- Index/","tags":["gardenEntry"],"updated":"2025-01-03T13:15:40.961+05:30"}
 ---
 
 
@@ -19,3 +19,10 @@
 | [[0-Home/3- Reference\|Reference]] | <span style="background:#fff88f">Topic wise Reference</span>                                      | ==Incomplete== |
 
 
+# Notification
+
+| Year | Notification | Online Application | Mains Result | Final Results | Seats |     | Status |
+| ---- | ------------ | ------------------ | ------------ | ------------- | ----- | --- | ------ |
+| 2025 |              |                    |              |               |       |     |        |
+| 2024 |              |                    |              |               | 18    |     |        |
+| 2023 |              |                    |              |               |       |     |        |
