@@ -468,7 +468,7 @@
 | 34  | “The existence of Non-Banking Financial Intermediaries NBFI) has reduced the scope of the effectiveness of monetary policy”. Do you agree? Explain with examples drawn from the Indian experience.                                                                  |                                                                                       | 2010 | 30    | 500   |
 |     | Discuss the consequences of inflation targeting monetary policy in India. Describe the role of the Reserve Bank of India in ensuring financial stability. 20 300                                                                                                    | monry                                                                                 | 2024 | 20    | 300   |
 
-# CA
+# Unorganised
 
 |     |                                                                                                 |     |      |     |     |
 | --- | ----------------------------------------------------------------------------------------------- | --- | ---- | --- | --- |
