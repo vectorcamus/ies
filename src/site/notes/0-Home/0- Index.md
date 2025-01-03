@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/0- Index/","tags":["gardenEntry"],"updated":"2025-01-03T13:15:40.961+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/0- Index/","tags":["gardenEntry"]}
 ---
 
 
@@ -21,8 +21,8 @@
 
 # Notification
 
-| Year | Notification | Online Application | Mains Result | Final Results | Seats |     | Status |
-| ---- | ------------ | ------------------ | ------------ | ------------- | ----- | --- | ------ |
-| 2025 |              |                    |              |               |       |     |        |
-| 2024 |              |                    |              |               | 18    |     |        |
-| 2023 |              |                    |              |               |       |     |        |
+| Year | Notification | Online Application | Mains Result | Final Results | Seats | Status    |
+| ---- | ------------ | ------------------ | ------------ | ------------- | ----- | --------- |
+| 2025 |              |                    |              |               |       | Upcoming  |
+| 2024 |              |                    |              |               | 18    | Completed |
+| 2023 |              |                    |              |               |       | Completed |

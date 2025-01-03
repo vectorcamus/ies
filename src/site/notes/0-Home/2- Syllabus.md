@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/2- Syllabus/","updated":"2025-01-02T20:54:42.923+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/2- Syllabus/"}
 ---
 
 
@@ -353,7 +353,7 @@
 - Report of National Commission on Labour, 
 - Social issues relating to labour e.g. Child Labour, Bonded Labour International Labour Standard and its impact. 
 
-###  Foreign trade
+##  Foreign trade
 
 - Salient features of India’s foreign trade, composition, direction and organisation of trade, recent changes in trade, balance of payments, tariff policy, exchange rate, India and WTO requirements. 
 - Bilateral Trade Agreements and their implications. 

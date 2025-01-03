@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/4- Trend/","updated":"2025-01-03T13:15:36.495+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/4- Trend/"}
 ---
 
 
