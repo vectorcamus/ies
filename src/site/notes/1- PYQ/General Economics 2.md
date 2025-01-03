@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- PYQ/General Economics 2/","dgShowFileTree":true}
+{"dg-publish":true,"permalink":"/1- PYQ/General Economics 2/","dgShowFileTree":true,"updated":"2025-01-03T12:55:39.920+05:30"}
 ---
 
 | Version  | Link                                                                                                      |
