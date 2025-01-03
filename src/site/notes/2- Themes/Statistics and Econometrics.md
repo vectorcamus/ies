@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/2- Themes/Statistics and Econometrics/"}
 ---
 
+| Version  | Link   |
+| -------- | ------ |
+| Markdown | Github |
+| PDF      | Drive  |
+
 <span style="background:#fff88f">Statistical and Econometric Methods and Income Distribution</span>
 
 > [!NOTE] Syllabus

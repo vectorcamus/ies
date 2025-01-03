@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/2- Themes/Mathematics/"}
 ---
 
+| Version  | Link   |
+| -------- | ------ |
+| Markdown | Github |
+| PDF      | Drive  |
+
 <span style="background:#fff88f">Mathematical , Quantitative Economics</span>
 
 > [!NOTE] Syllabus
