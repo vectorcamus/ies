@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2- Themes/Economic Thought/","updated":"2024-12-29T16:43:19.664+05:30"}
+{"dg-publish":true,"permalink":"/2- Themes/Economic Thought/","updated":"2025-01-03T10:45:09.757+05:30"}
 ---
 
 
 
-> [!NOTE]
+> [!NOTE] Syllabus
 > - Mercantilism, 
 > - Physiocrats, 
 > - Classical, 

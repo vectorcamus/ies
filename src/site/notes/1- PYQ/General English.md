@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- PYQ/General English/","updated":"2025-01-01T20:29:02.169+05:30"}
+{"dg-publish":true,"permalink":"/1- PYQ/General English/","updated":"2025-01-03T11:38:56.417+05:30"}
 ---
 
 # Essay 
@@ -50,48 +50,157 @@
 
 # Paragraph 
 
-|                                                                                                               |      |
-| ------------------------------------------------------------------------------------------------------------- | ---- |
-| Scientific temper strengthens democracy.                                                                      | 2024 |
-| Doubt is important for faith.                                                                                 | 2024 |
-| Success is counted sweetest by those who never succeed.                                                       | 2024 |
-| Darkness cannot drive out darkness, only light can.                                                           | 2024 |
-| A day without laughter is a day wasted.                                                                       | 2024 |
-| Nothing sustains a person like self-belief.                                                                   | 2023 |
-| Life is what you make it.                                                                                     | 2023 |
-| A painting is a poem without words.                                                                           | 2023 |
-| Man is born free.                                                                                             | 2023 |
-| Home is where the heart is.                                                                                   | 2023 |
-| Justice delayed is justice denied.                                                                            | 2022 |
-| All's well that ends well.                                                                                    | 2022 |
-| A thing of beauty is a joy forever.                                                                           | 2022 |
-| Rituals and scientific thinking.                                                                              | 2022 |
-| Is internet a menace to children ?                                                                            | 2022 |
-| Appearances can be deceptive.                                                                                 | 2021 |
-| I have miles to go before I sleep.                                                                            | 2021 |
-| Health is wealth.                                                                                             | 2021 |
-| Politics is the art of the possible.                                                                          | 2021 |
-| If winter is here, can spring be far behind ?                                                                 | 2021 |
-| Punctuality is a precious virtue.                                                                             | 2020 |
-| It is better to do a thing badly than not to do it at all.                                                    | 2020 |
-| Courage is the necessity of life.                                                                             | 2020 |
-| Love of money is the root of all evils.                                                                       | 2020 |
-| Is censorship of Internet necessary .                                                                         | 2020 |
-| It is better to conquer yourself than to win a thousand battles.                                              | 2019 |
-| Politics niakes strange bedfellows.                                                                           | 2019 |
-| Strike the iron while it is hot.                                                                              | 2019 |
-| To be yourself in a world that is constantly tying to make you something else is the greatest accomplishment. | 2019 |
-| If you want to test a man's character, give him power.                                                        | 2019 |
-| Every cloud has a silver lining.                                                                              | 2018 |
-| Handsome is as handsome does.                                                                                 | 2018 |
-| Good fences make good neighbours.                                                                             | 2018 |
-| That's the way the cookie crumbles.                                                                           | 2018 |
-| If gold rusts, what shall the iron do.                                                                        | 2018 |
-| Make hay while the sun shines."                                                                               | 2017 |
-| One swallow does not make a summer.                                                                           | 2017 |
-| Discretion is the better part of valour.                                                                      | 2017 |
-| As you sow, so shall you reap.                                                                                | 2017 |
-| 'If winter comes, can spring be far behind?                                                                   | 2017 |
+|                                                                                                                                            |      |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| Scientific temper strengthens democracy.                                                                                                   | 2024 |
+| Doubt is important for faith.                                                                                                              | 2024 |
+| Success is counted sweetest by those who never succeed.                                                                                    | 2024 |
+| Darkness cannot drive out darkness, only light can.                                                                                        | 2024 |
+| A day without laughter is a day wasted.                                                                                                    | 2024 |
+| Nothing sustains a person like self-belief.                                                                                                | 2023 |
+| Life is what you make it.                                                                                                                  | 2023 |
+| A painting is a poem without words.                                                                                                        | 2023 |
+| Man is born free.                                                                                                                          | 2023 |
+| Home is where the heart is.                                                                                                                | 2023 |
+| Justice delayed is justice denied.                                                                                                         | 2022 |
+| All's well that ends well.                                                                                                                 | 2022 |
+| A thing of beauty is a joy forever.                                                                                                        | 2022 |
+| Rituals and scientific thinking.                                                                                                           | 2022 |
+| Is internet a menace to children ?                                                                                                         | 2022 |
+| Appearances can be deceptive.                                                                                                              | 2021 |
+| I have miles to go before I sleep.                                                                                                         | 2021 |
+| Health is wealth.                                                                                                                          | 2021 |
+| Politics is the art of the possible.                                                                                                       | 2021 |
+| If winter is here, can spring be far behind ?                                                                                              | 2021 |
+| Punctuality is a precious virtue.                                                                                                          | 2020 |
+| It is better to do a thing badly than not to do it at all.                                                                                 | 2020 |
+| Courage is the necessity of life.                                                                                                          | 2020 |
+| Love of money is the root of all evils.                                                                                                    | 2020 |
+| Is censorship of Internet necessary .                                                                                                      | 2020 |
+| It is better to conquer yourself than to win a thousand battles.                                                                           | 2019 |
+| Politics niakes strange bedfellows.                                                                                                        | 2019 |
+| Strike the iron while it is hot.                                                                                                           | 2019 |
+| To be yourself in a world that is constantly tying to make you something else is the greatest accomplishment.                              | 2019 |
+| If you want to test a man's character, give him power.                                                                                     | 2019 |
+| Every cloud has a silver lining.                                                                                                           | 2018 |
+| Handsome is as handsome does.                                                                                                              | 2018 |
+| Good fences make good neighbours.                                                                                                          | 2018 |
+| That's the way the cookie crumbles.                                                                                                        | 2018 |
+| If gold rusts, what shall the iron do.                                                                                                     | 2018 |
+| Make hay while the sun shines."                                                                                                            | 2017 |
+| One swallow does not make a summer.                                                                                                        | 2017 |
+| Discretion is the better part of valour.                                                                                                   | 2017 |
+| As you sow, so shall you reap.                                                                                                             | 2017 |
+| 'If winter comes, can spring be far behind?                                                                                                | 2017 |
+|                                                                                                                                            |      |
+| India suffers from paucity of role model .                                                                                                 | 2016 |
+| The progress of a nation depends on the way its universities function.                                                                     | 2016 |
+| "The comprehensive and diversified the social order, the greater the responsibility and the freedom of the individual."                    | 2016 |
+| Should betting in sports be legalized.                                                                                                     | 2016 |
+| The benefits of organic foods are greatly overrated.                                                                                       | 2016 |
+|                                                                                                                                            |      |
+| Leadership is not a position but a responsibility.                                                                                         | 2015 |
+| Does the rise of materialism lead to erosion of values ?                                                                                   | 2015 |
+| Understanding is the best form of hospitality. Individual freedom versus Social responsibility. The scientific temper of the modern world. | 2015 |
+|                                                                                                                                            |      |
+| Use of Social Media in Politics                                                                                                            | 2014 |
+| Impact of FDI in Retail on Agriculture                                                                                                     | 2014 |
+| Eco-tourism and challenges it faces                                                                                                        | 2014 |
+| Diversification of Crops and Chemical Pollution                                                                                            | 2014 |
+| Genetic Engineering- Prospects and Hazards  (GE 2014.pdf, p.2)                                                                             | 2014 |
+|                                                                                                                                            |      |
+| The Effect of Adverti8ements on Ma88 Con8umeri8m                                                                                           | 2013 |
+| Disast2r Management . The need of the hour                                                                                                 | 2013 |
+| Are Indian Soaps on TV socially relevant ?                                                                                                 | 2013 |
+| The vulnerability of our frontiers.                                                                                                        | 2013 |
+| Economy versus the environment debate.                                                                                                     | 2013 |
+|                                                                                                                                            |      |
+| Significance of education in women empowerment                                                                                             | 2012 |
+| Medical/Health Toui"ism favoui.ite destination education in woTnLn' Making India                                                           | 2012 |
+| Social Responsibilities of Corporate Group.                                                                                                | 2012 |
+| Picnic in ,%pacp A future possibility                                                                                                      | 2012 |
+| - I' mpi'e. utopia ?  (GE 2012.pdf, p.2)                                                                                                   | 2012 |
+|                                                                                                                                            |      |
+| The common man is a victim of the culture of consumerism.                                                                                  | 2011 |
+| Increasing the size of the pie or distributing the pie better what should be the focus of Indian policy planners ?                         | 2011 |
+| Looking for alternative energy sources.                                                                                                    | 2011 |
+| Increasing privatisation in higher education - boon or a bane ?                                                                            | 2011 |
+|                                                                                                                                            |      |
+| Causes and remedies for the Maoist-insurgency in the North Eastern states.                                                                 | 2010 |
+| India՚s Major Problem is not unemployment, rather ‘Unemployable educated’                                                                  | 2010 |
+| Consequences of Global warming Myth and reality.                                                                                           | 2010 |
+| Where injustice Prevails, it is crime to be a silent spectator.                                                                            | 2010 |
+|                                                                                                                                            |      |
+| The relevance of traditional values in a globalised world.                                                                                 | 2009 |
+| The consumer culture in India - a waste  or an engine of growth ?                                                                          | 2009 |
+| India's space programme - problems.                                                                                                        | 2009 |
+| The global recession - an obstacle t or an opportunity for change ?                                                                        | 2009 |
+| The hand that rocks the cradle rules the world.                                                                                            | 2016 |
+| Those who live in glasshouses shouldn't throw stones.                                                                                      | 2016 |
+| Two wrongs don't make a right.                                                                                                             | 2016 |
+| No man is an island.                                                                                                                       | 2016 |
+| Actions speak louder than words. (GE 2016.pdf, p.6)                                                                                        | 2016 |
+|                                                                                                                                            |      |
+| All that glitters is not gold.                                                                                                             | 2015 |
+| Time and tide wait for none.                                                                                                               | 2015 |
+| A bird in hand is worth two in the bush.                                                                                                   | 2015 |
+| Brevity is the soul of wit.                                                                                                                | 2015 |
+| To err is human; to forgive is divine.                                                                                                     | 2015 |
+|                                                                                                                                            |      |
+| Two wrongs don't make a right.                                                                                                             | 2014 |
+| The pen is mightier than the sword.                                                                                                        | 2014 |
+| - When in Rome, do as the Romans do.                                                                                                       | 2014 |
+| - No man is an island.                                                                                                                     | 2014 |
+| - Fortune favours the bold.  (GE 2014.pdf, p.6)                                                                                            | 2014 |
+|                                                                                                                                            |      |
+| - Waste not, want not                                                                                                                      | 2013 |
+| - Health is wealth                                                                                                                         | 2013 |
+| - The pen is mightier than the sword                                                                                                       | 2013 |
+| - We will reap tomorrow what we sow today  (GE 2013.pdf, p.4)                                                                              | 2013 |
+|                                                                                                                                            |      |
+| - Prosperity makes friends, adversity tries them                                                                                           | 2012 |
+| - Small is beautiful                                                                                                                       | 2012 |
+| - Child is the father of Man                                                                                                               | 2012 |
+| - When you smile, the world smiles with you; when you weep, you weep alone  (GE 2012.pdf, p.7)                                             | 2012 |
+|                                                                                                                                            |      |
+| - "The essential thing is not to have conquered but to have fought well.'                                                                  | 2011 |
+| - 'Doing easily what others find difficult is talent, doing what is impossible for talent is genius'                                       | 2011 |
+| - 'Examples are better than precepts.'                                                                                                     | 2011 |
+| - 'Physician, heal thyself."                                                                                                               | 2011 |
+| - 'Professional integrity is as important as personal integrity.'  (GE 2011.pdf, p.5)                                                      | 2011 |
+|                                                                                                                                            |      |
+| - Struggle with your mind is the greatest struggle.                                                                                        | 2010 |
+| - Sweet are the uses of adversity.                                                                                                         | 2010 |
+| - Time heals even the deepest wound.  (GE 2010.pdf, p.2)                                                                                   | 2010 |
+|                                                                                                                                            |      |
+| - Fortune Favours only the brave.  (GE 2010.pdf, p.2)                                                                                      | 2010 |
+|                                                                                                                                            |      |
+| - A little learning is a dangerous thing                                                                                                   | 2009 |
+| - Self-interest is but the survival of the animal in u                                                                                     | 2009 |
+| - No man is a hero to his valet.                                                                                                           | 2009 |
+| - Wealth is the product of man's capacity to ir ate.  (GE 2009.pdf, p.5)                                                                   | 2009 |
+|                                                                                                                                            |      |
+| - Old habits die hard                                                                                                                      | 2003 |
+| - Sweets are the uses of adversity                                                                                                         | 2003 |
+| - Anger is one letter short of danger                                                                                                      | 2003 |
+| - The hand that rocks the cradle rules the world.  (GE 2003.pdf, p.3)                                                                      | 2003 |
+|                                                                                                                                            |      |
+| Object Group                                                                                                                               |      |
+|                                                                                                                                            |      |
+| - The mind by itself can make a heaven of hell and a hell of heaven                                                                        | 2001 |
+| - When injustice rules, truth is the first casualty                                                                                        | 2001 |
+| - City by night                                                                                                                            | 2001 |
+| - Scene at an international airport on learning that a plane has been hijacked  (GE 2001.pdf, p.2)                                         | 2001 |
+|                                                                                                                                            |      |
+| - Man spoils mattes much more by speech than by silence                                                                                    | 2000 |
+| - When all think alike no one thinks very much.                                                                                            | 2000 |
+| - A traffic jam.                                                                                                                           | 2000 |
+| - Scene in an examination hall before the beginning of the examination (GE 2000.pdf, p.3)                                                  | 2000 |
+|                                                                                                                                            |      |
+| - Happiness is a state of mind  (GE 1999.pdf, p.2)                                                                                         | 1999 |
+| - Risk-taking is inherently failure-prone (GE 1999.pdf, p.2)                                                                               | 1999 |
+| - Whom do the politicians really serve? (GE 1999.pdf, p.2)                                                                                 | 1999 |
+| - Scene at a railway platform after the departure of a train (GE 1999.pdf, p.2)                                                            | 1999 |
 
 # Sentence Formation
 
@@ -99,185 +208,427 @@
 
 
 
-| Words        |      |
-| ------------ | ---- |
-| Austere      | 2024 |
-| Preposterous | 2024 |
-| Provision    | 2024 |
-| Kudos        | 2024 |
-| Foresight    | 2024 |
-| Altercation  | 2023 |
-| Blatantly    | 2023 |
-| Cacophony    | 2023 |
-| Delirious    | 2023 |
-| Invigorate   | 2023 |
-| specious     | 2022 |
-| uncouth      | 2022 |
-| prevaricate  | 2022 |
-| chagrin      | 2022 |
-| connoisseur  | 2022 |
-| austere      | 2021 |
-| loathsome    | 2021 |
-| predicament  | 2021 |
-| supercilious | 2021 |
-| precarious   | 2021 |
-| gregarious   | 2020 |
-| hostility    | 2020 |
-| affluence    | 2020 |
-| boisterous   | 2020 |
-| affinity     | 2020 |
-| acrimony     | 2019 |
-| credulous    | 2019 |
-| itinerant    | 2019 |
-| precarious   | 2019 |
-| bereavement  | 2019 |
-| recondite    | 2018 |
-| largesse     | 2018 |
-| macabre      | 2018 |
-| zealot       | 2018 |
-| disingenuous | 2018 |
-| Prefatory    | 2017 |
-| Ostentatious | 2017 |
-| Expatriate   | 2017 |
-| Lascivious   | 2017 |
-| Nemesis      | 2017 |
+| Words                                                                                                                     |      |
+| ------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Austere                                                                                                                   | 2024 |
+| Preposterous                                                                                                              | 2024 |
+| Provision                                                                                                                 | 2024 |
+| Kudos                                                                                                                     | 2024 |
+| Foresight                                                                                                                 | 2024 |
+| Altercation                                                                                                               | 2023 |
+| Blatantly                                                                                                                 | 2023 |
+| Cacophony                                                                                                                 | 2023 |
+| Delirious                                                                                                                 | 2023 |
+| Invigorate                                                                                                                | 2023 |
+| specious                                                                                                                  | 2022 |
+| uncouth                                                                                                                   | 2022 |
+| prevaricate                                                                                                               | 2022 |
+| chagrin                                                                                                                   | 2022 |
+| connoisseur                                                                                                               | 2022 |
+| austere                                                                                                                   | 2021 |
+| loathsome                                                                                                                 | 2021 |
+| predicament                                                                                                               | 2021 |
+| supercilious                                                                                                              | 2021 |
+| precarious                                                                                                                | 2021 |
+| gregarious                                                                                                                | 2020 |
+| hostility                                                                                                                 | 2020 |
+| affluence                                                                                                                 | 2020 |
+| boisterous                                                                                                                | 2020 |
+| affinity                                                                                                                  | 2020 |
+| acrimony                                                                                                                  | 2019 |
+| credulous                                                                                                                 | 2019 |
+| itinerant                                                                                                                 | 2019 |
+| precarious                                                                                                                | 2019 |
+| bereavement                                                                                                               | 2019 |
+| recondite                                                                                                                 | 2018 |
+| largesse                                                                                                                  | 2018 |
+| macabre                                                                                                                   | 2018 |
+| zealot                                                                                                                    | 2018 |
+| disingenuous                                                                                                              | 2018 |
+| Prefatory                                                                                                                 | 2017 |
+| Ostentatious                                                                                                              | 2017 |
+| Expatriate                                                                                                                | 2017 |
+| Lascivious                                                                                                                | 2017 |
+| Nemesis                                                                                                                   | 2017 |
+| - venerate                                                                                                                | 2016 |
+| - aberration                                                                                                              | 2016 |
+| - callous                                                                                                                 | 2016 |
+| - circumspect                                                                                                             | 2016 |
+| - enunciate 2016 (GE 2016.pdf, p.6)                                                                                       | 2016 |
+|                                                                                                                           |      |
+| - Loquacious                                                                                                              | 2015 |
+| - Topsy-turvy                                                                                                             | 2015 |
+| - Mentor                                                                                                                  | 2015 |
+| - Enigmatic                                                                                                               | 2015 |
+| - Nefariou 2015s  (GE 2015.pdf, p.5)                                                                                      | 2015 |
+|                                                                                                                           |      |
+| - Quagmire                                                                                                                | 2014 |
+| - Remuneration                                                                                                            | 2014 |
+| - Penchant                                                                                                                | 2014 |
+| - Verbiage                                                                                                                | 2014 |
+| - Niche 2014 (GE 2014.pdf, p.6)                                                                                           | 2014 |
+|                                                                                                                           |      |
+| - Inflammatory                                                                                                            | 2013 |
+| - Zenith                                                                                                                  | 2013 |
+| - Utopia                                                                                                                  | 2013 |
+| - Exodus                                                                                                                  | 2013 |
+| - Dissenter 2013 (GE 2013.pdf, p.4)                                                                                       | 2013 |
+|                                                                                                                           |      |
+| - conscientious                                                                                                           | 2012 |
+| - deleterious                                                                                                             | 2012 |
+| - nebulous                                                                                                                | 2012 |
+| - perseverance                                                                                                            | 2012 |
+| - wistful 2012 (GE 2012.pdf, p.7)                                                                                         | 2012 |
+|                                                                                                                           |      |
+| - Corpus                                                                                                                  | 2011 |
+| - Insidious                                                                                                               | 2011 |
+| - Lateral                                                                                                                 | 2011 |
+| - Servile                                                                                                                 | 2011 |
+| - Rúbric 2011 (GE 2011.pdf, p.6)                                                                                          | 2011 |
+|                                                                                                                           |      |
+| - Meltdown                                                                                                                | 2010 |
+| - Imbroglio                                                                                                               | 2010 |
+| - Cerebral                                                                                                                | 2010 |
+| - Convergance                                                                                                             | 2010 |
+| - Obligation 2010 (GE 2010.pdf, p.3)                                                                                      | 2010 |
+|                                                                                                                           |      |
+| - Alleviate                                                                                                               | 2009 |
+| - Obfuscation                                                                                                             | 2009 |
+| - Succinct                                                                                                                | 2009 |
+| - Grapevine                                                                                                               | 2009 |
+| - dissmulation 2009 (GE 2009.pdf, p.5)                                                                                    | 2009 |
+|                                                                                                                           |      |
+| - inquisitive (adjective)                                                                                                 | 2003 |
+| - temperance (noun)                                                                                                       | 2003 |
+| - retrieve (verb)                                                                                                         | 2003 |
+| - specious (adjective)                                                                                                    | 2003 |
+| - convalesce (verb) 2003 (GE 2003.pdf, p.3)                                                                               | 2003 |
+|                                                                                                                           |      |
+| - eclectic                                                                                                                | 2001 |
+| - invincible 2001 (GE 2001.pdf, p.2)                                                                                      | 2001 |
+| - vulnerable                                                                                                              | 2001 |
+| - irreconcilable                                                                                                          | 2001 |
+| - retribution 2001 (GE 2001.pdf, p.3)                                                                                     | 2001 |
+|                                                                                                                           |      |
+| - potential                                                                                                               | 2000 |
+| - legacy                                                                                                                  | 2000 |
+| - interpret                                                                                                               | 2000 |
+| - elaborate                                                                                                               | 2000 |
+| - environments 2000 (GE 2000.pdf, p.3)                                                                                    | 2000 |
+|                                                                                                                           |      |
+| - subtle                                                                                                                  | 1999 |
+| - momentous                                                                                                               | 1999 |
+| - aesthetic                                                                                                               | 1999 |
+| - posthumous                                                                                                              | 1999 |
+| - book (as verb) 1999 (GE 1999.pdf, p.3)                                                                                  | 1999 |
+| - Use the following homonyms in sentences so as to bring out the difference in meaning clearly without changing the form. | 2015 |
+| - Compliment Complement                                                                                                   | 2015 |
+| - Canvas Canvass                                                                                                          | 2015 |
+| - Device Devise                                                                                                           | 2015 |
+| - Ghostly Ghastly                                                                                                         | 2015 |
+| - Cite Site  (GE 2015.pdf, p.6)                                                                                           | 2015 |
 
 # Idioms / Phrasal Verb
 
-| Question                   | Year |
-| -------------------------- | ---- |
-| blessing in disguise       | 2024 |
-| at the drop of a hat       | 2024 |
-| far cry from               | 2024 |
-| the last straw             | 2024 |
-| out of hand                | 2024 |
-| a pinch of salt            | 2023 |
-| down the alley             | 2023 |
-| at an arm's  length        | 2023 |
-| under the cloud            | 2023 |
-| in the eye of the storm    | 2023 |
-| swan song                  | 2022 |
-| in sync with               | 2022 |
-| to smell a rat             | 2022 |
-| go to the dogs             | 2022 |
-| to break the ice           | 2022 |
-| burning question           | 2021 |
-| at loggerheads             | 2021 |
-| to laugh in (one's) sleeve | 2021 |
-| left in the lurch          | 2021 |
-| see off                    | 2021 |
-| a vested interest          | 2020 |
-| at cross purposes          | 2020 |
-| at a loss for words        | 2020 |
-| look down on/upon          | 2020 |
-| put across                 | 2020 |
-| fall through               | 2019 |
-| throw a spanner            | 2019 |
-| go overboard               | 2019 |
-| come a cropper             | 2019 |
-| drive home                 | 2019 |
-| infringe upon              | 2018 |
-| hear on the grapevine      | 2018 |
-| fend for                   | 2018 |
-| caught in the crossfire    | 2018 |
-| go off at a tangent        | 2018 |
-| make away with             | 2017 |
-| play fast and loose        | 2017 |
-| set off the hook           | 2017 |
-| eating humble pie          | 2017 |
-| square pegs in round holes | 2017 |
+| Question                                                                                      | Year |
+| --------------------------------------------------------------------------------------------- | ---- |
+| blessing in disguise                                                                          | 2024 |
+| at the drop of a hat                                                                          | 2024 |
+| far cry from                                                                                  | 2024 |
+| the last straw                                                                                | 2024 |
+| out of hand                                                                                   | 2024 |
+| a pinch of salt                                                                               | 2023 |
+| down the alley                                                                                | 2023 |
+| at an arm's  length                                                                           | 2023 |
+| under the cloud                                                                               | 2023 |
+| in the eye of the storm                                                                       | 2023 |
+| swan song                                                                                     | 2022 |
+| in sync with                                                                                  | 2022 |
+| to smell a rat                                                                                | 2022 |
+| go to the dogs                                                                                | 2022 |
+| to break the ice                                                                              | 2022 |
+| burning question                                                                              | 2021 |
+| at loggerheads                                                                                | 2021 |
+| to laugh in (one's) sleeve                                                                    | 2021 |
+| left in the lurch                                                                             | 2021 |
+| see off                                                                                       | 2021 |
+| a vested interest                                                                             | 2020 |
+| at cross purposes                                                                             | 2020 |
+| at a loss for words                                                                           | 2020 |
+| look down on/upon                                                                             | 2020 |
+| put across                                                                                    | 2020 |
+| fall through                                                                                  | 2019 |
+| throw a spanner                                                                               | 2019 |
+| go overboard                                                                                  | 2019 |
+| come a cropper                                                                                | 2019 |
+| drive home                                                                                    | 2019 |
+| infringe upon                                                                                 | 2018 |
+| hear on the grapevine                                                                         | 2018 |
+| fend for                                                                                      | 2018 |
+| caught in the crossfire                                                                       | 2018 |
+| go off at a tangent                                                                           | 2018 |
+| make away with                                                                                | 2017 |
+| play fast and loose                                                                           | 2017 |
+| set off the hook                                                                              | 2017 |
+| eating humble pie                                                                             | 2017 |
+| square pegs in round holes                                                                    | 2017 |
+| - abide by                                                                                    | 2016 |
+| - iron out                                                                                    | 2016 |
+| - wear down                                                                                   | 2016 |
+| - rule out                                                                                    | 2016 |
+| - scape through  (GE 2016.pdf, p.7)                                                           | 2016 |
+|                                                                                               |      |
+| - Use any five of the following idiomatic expressions in meaningful sentences: 5 × 2 = 10     |      |
+| - to fall that                                                                                | 1998 |
+| - in the teeth of                                                                             | 1998 |
+| - a fish out of water                                                                         | 1998 |
+| - to bury the hatchet                                                                         | 1998 |
+| - in full swing                                                                               | 1998 |
+| - a hue and cry                                                                               | 1998 |
+| - by and large                                                                                | 1998 |
+| - below the mark                                                                              | 1998 |
+| - a black sheap                                                                               | 1998 |
+| - at hand  (GE 1998.pdf, p.3)                                                                 | 1998 |
+| - The latest copy of the book is more preferable to any that has been published so far.       | 2016 |
+| - Scarcely had the doctor left after examining him than the patient died.                     | 2016 |
+| - I don't think I have met the girl whom you say has topped in the examination.               | 2016 |
+| - Raids were carried in all over the city to unearth illegal ammunition.                      | 2016 |
+| - The teacher did not take the test today as all the students were not present.               | 2016 |
+| - There is hardly no reason to suspect his story.                                             | 2016 |
+| - One of my friends are going abroad this summer.  (GE 2016.pdf, p.7)                         | 2016 |
+|                                                                                               |      |
+| - Unless the entire nation does not cooperates, we cannot hope to maintain law and order.     | 2016 |
+| - Everyone in the room were amazed at the ease with which he was evading the questions asked. | 2016 |
+| - It is unfortunate that she could not avail of the opportunity to better her prospects.      | 2016 |
+| - The doctor has prescribed two spoonful of the medicine to be taken three times everyday.    | 2016 |
+| - The teacher was saying that one must do his duty honestly.                                  | 2016 |
+| - Had you played well you would win the match.                                                | 2016 |
+| - He behaves as if he was the chief of the organization.                                      | 2016 |
+| - The teacher asked me if I was not ashamed of what I did.  (GE 2016.pdf, p.8)                | 2016 |
 
 # Sentence Correction 
 
 
 
-| Question                                                                                                       | Year |
-| -------------------------------------------------------------------------------------------------------------- | ---- |
-| Book you want is out of print.                                                                                 | 2024 |
-| You have not seen this play, haven't you?                                                                      | 2024 |
-| Neither the patient nor the doctor were in the ward.                                                           | 2024 |
-| Two and two makes four.                                                                                        | 2024 |
-| Let me give you some advise.                                                                                   | 2024 |
-| Where are your luggages?                                                                                       | 2024 |
-| Trees fell like nine pines in the strong wind.                                                                 | 2024 |
-| We scored as many goals as they.                                                                               | 2024 |
-| Petroleum is a clean fuel as compared to coal, as it burns completely and leaves no residue.                   | 2024 |
-| She has been living in Delhi since the past twenty years.                                                      | 2024 |
-| It is a matter of gravest importance.                                                                          | 2023 |
-| He was hankering for success.                                                                                  | 2023 |
-| Neither she comes nor she writes.                                                                              | 2023 |
-| Too many a roadblock can be very frustrative for drivers.                                                      | 2023 |
-| The contents of the box was an enigma for everyone.                                                            | 2023 |
-| We were happy to see acres and acres of expensive lush green fields.                                           | 2023 |
-| Even though this pen cost me dearly, it is value for money.                                                    | 2023 |
-| Everyone must bide by the rules of the game.                                                                   | 2023 |
-| Your lack in clarity of thought can be detrimental to your welfare.                                            | 2023 |
-| He coaxed me to agree with his proposal.                                                                       | 2023 |
-| The shepherd was tending his sheeps.                                                                           | 2022 |
-| I do not understand why he is so angry at me.                                                                  | 2022 |
-| What is the time in your watch ?                                                                               | 2022 |
-| Look at the correct meaning of the word in the dictionary.                                                     | 2022 |
-| I avoid to go there.                                                                                           | 2022 |
-| He or his friends has done this.                                                                               | 2022 |
-| Mr. Sharnla was accused for murder.                                                                            | 2022 |
-| He says that he owns a car beside a scooter.                                                                   | 2022 |
-| He is a coward fellow.                                                                                         | 2022 |
-| The children thought of making merry but the rain spoiled there dream.                                         | 2022 |
-| He has promised to lend us some money, isn't it ?                                                              | 2021 |
-| According to me we should spend more money on education.                                                       | 2021 |
-| She returned back after sometime.                                                                              | 2021 |
-| Most shopkeepers in the mall deal with jewellery and fashion items.                                            | 2021 |
-| The teacher asked the new student what was his name. Neither the convict nor his lawyer were present.          | 2021 |
-| Neither the convict nor his lawyer were present.                                                               | 2021 |
-| We need to buy more stationery for our office.                                                                 | 2021 |
-| If it will rain, ==we== come and meet you in the car.                                                          | 2021 |
-| Time and tide waits for none.                                                                                  | 2021 |
-| I doubt that he will be able to accomplish the task in time.                                                   | 2021 |
-| I did not like him disturbing me at that late hour.                                                            | 2020 |
-| Death is preferable than dishonour.                                                                            | 2020 |
-| He is enough wise to understand the situation.                                                                 | 2020 |
-| He is seldom or ever to be seen at his shop.                                                                   | 2020 |
-| The teacher has not yet entered into the classroom.                                                            | 2020 |
-| I am prepared to say it at his face.                                                                           | 2020 |
-| He insisted to leave immediately.                                                                              | 2020 |
-| He always says the truth.                                                                                      | 2020 |
-| Wealth is only means, the end is happiness.                                                                    | 2020 |
-| I doubt that he will come.                                                                                     | 2020 |
-| His daughter-in-law is a M.A. in English.                                                                      |      |
-| Rina has been deprived from her share in her father's property.                                                |      |
-| All the books in the old library has perished.                                                                 |      |
-| The aggrieved man said that he will not forgive the wrong-doer.                                                |      |
-| Despite of the doctor's advice. he smoked.                                                                     | 2019 |
-| The principal could not attend the meeting in account of illness.                                              | 2019 |
-| In the court-room the advocate referred an old case.                                                           | 2019 |
-| The old man was so weak to climb the stairs.                                                                   | 2019 |
-| My father has stopped living in the official quarter.                                                          | 2019 |
-| They cannot issue the ticket unless you do not pay the fare.                                                   | 2019 |
-| My friend reached the airport on time to have a coffee before boarding.                                        | 2019 |
-| He was found guilty of stealing his employer.                                                                  | 2019 |
-| Sonu got a present from his father but he hasn't opened it.                                                    | 2019 |
-| I am obliged to serve him, isn't it ?                                                                          | 2019 |
-| I would watch a football match than a cricket series.                                                          | 2018 |
-| They were annoyed at not to be able to see the puppet show properly.                                           | 2018 |
-| The economics of the plan is worrying the investors.                                                           | 2018 |
-| He got up at 5 o'clock not to be late for the interview.                                                       | 2018 |
-| If they offered me the position, I shall decline it.                                                           | 2018 |
-| I go to the work in afternoon.                                                                                 | 2018 |
-| Shocked of finding an unknown person, the army officer briskly caught hold of him.                             | 2018 |
-| High population growing rate is one of the major reasons of poverty in India.                                  | 2018 |
-| He decided to reveal the corruption in his department to the media.                                            | 2018 |
-| I would have waited for you at the station if I knew that you would come.                                      | 2018 |
-| Although my car is expensive, I had a lot of trouble with it.                                                  | 2018 |
-| He would have lent me some money if he was knowing that I had lost everything.                                 | 2017 |
-| No sooner the news reached him than he fainted.                                                                | 2017 |
-| According to the Census Bureau, India will have a more problem.                                                | 2017 |
-| Mr. Misra said that he is doing fine now.                                                                      | 2017 |
-| Non-teaching staffs of the college are agitating for their demands.                                            | 2017 |
-| The President of France has left India yesterday.                                                              | 2017 |
-| Rahul stays with his parents in the Railway quarter.                                                           | 2017 |
-| He went on committing crime after crime and in spite of my best efforts I could not prevent him from doing so. | 2017 |
-| To transport goods by the sea is cheaper than land.                                                            | 2017 |
-| It is a penal offence bribing a public servant.                                                                | 2017 |
+| Question                                                                                                                                                                                                                                               | Year |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| Book you want is out of print.                                                                                                                                                                                                                         | 2024 |
+| You have not seen this play, haven't you?                                                                                                                                                                                                              | 2024 |
+| Neither the patient nor the doctor were in the ward.                                                                                                                                                                                                   | 2024 |
+| Two and two makes four.                                                                                                                                                                                                                                | 2024 |
+| Let me give you some advise.                                                                                                                                                                                                                           | 2024 |
+| Where are your luggages?                                                                                                                                                                                                                               | 2024 |
+| Trees fell like nine pines in the strong wind.                                                                                                                                                                                                         | 2024 |
+| We scored as many goals as they.                                                                                                                                                                                                                       | 2024 |
+| Petroleum is a clean fuel as compared to coal, as it burns completely and leaves no residue.                                                                                                                                                           | 2024 |
+| She has been living in Delhi since the past twenty years.                                                                                                                                                                                              | 2024 |
+| It is a matter of gravest importance.                                                                                                                                                                                                                  | 2023 |
+| He was hankering for success.                                                                                                                                                                                                                          | 2023 |
+| Neither she comes nor she writes.                                                                                                                                                                                                                      | 2023 |
+| Too many a roadblock can be very frustrative for drivers.                                                                                                                                                                                              | 2023 |
+| The contents of the box was an enigma for everyone.                                                                                                                                                                                                    | 2023 |
+| We were happy to see acres and acres of expensive lush green fields.                                                                                                                                                                                   | 2023 |
+| Even though this pen cost me dearly, it is value for money.                                                                                                                                                                                            | 2023 |
+| Everyone must bide by the rules of the game.                                                                                                                                                                                                           | 2023 |
+| Your lack in clarity of thought can be detrimental to your welfare.                                                                                                                                                                                    | 2023 |
+| He coaxed me to agree with his proposal.                                                                                                                                                                                                               | 2023 |
+| The shepherd was tending his sheeps.                                                                                                                                                                                                                   | 2022 |
+| I do not understand why he is so angry at me.                                                                                                                                                                                                          | 2022 |
+| What is the time in your watch ?                                                                                                                                                                                                                       | 2022 |
+| Look at the correct meaning of the word in the dictionary.                                                                                                                                                                                             | 2022 |
+| I avoid to go there.                                                                                                                                                                                                                                   | 2022 |
+| He or his friends has done this.                                                                                                                                                                                                                       | 2022 |
+| Mr. Sharnla was accused for murder.                                                                                                                                                                                                                    | 2022 |
+| He says that he owns a car beside a scooter.                                                                                                                                                                                                           | 2022 |
+| He is a coward fellow.                                                                                                                                                                                                                                 | 2022 |
+| The children thought of making merry but the rain spoiled there dream.                                                                                                                                                                                 | 2022 |
+| He has promised to lend us some money, isn't it ?                                                                                                                                                                                                      | 2021 |
+| According to me we should spend more money on education.                                                                                                                                                                                               | 2021 |
+| She returned back after sometime.                                                                                                                                                                                                                      | 2021 |
+| Most shopkeepers in the mall deal with jewellery and fashion items.                                                                                                                                                                                    | 2021 |
+| The teacher asked the new student what was his name. Neither the convict nor his lawyer were present.                                                                                                                                                  | 2021 |
+| Neither the convict nor his lawyer were present.                                                                                                                                                                                                       | 2021 |
+| We need to buy more stationery for our office.                                                                                                                                                                                                         | 2021 |
+| If it will rain, ==we== come and meet you in the car.                                                                                                                                                                                                  | 2021 |
+| Time and tide waits for none.                                                                                                                                                                                                                          | 2021 |
+| I doubt that he will be able to accomplish the task in time.                                                                                                                                                                                           | 2021 |
+| I did not like him disturbing me at that late hour.                                                                                                                                                                                                    | 2020 |
+| Death is preferable than dishonour.                                                                                                                                                                                                                    | 2020 |
+| He is enough wise to understand the situation.                                                                                                                                                                                                         | 2020 |
+| He is seldom or ever to be seen at his shop.                                                                                                                                                                                                           | 2020 |
+| The teacher has not yet entered into the classroom.                                                                                                                                                                                                    | 2020 |
+| I am prepared to say it at his face.                                                                                                                                                                                                                   | 2020 |
+| He insisted to leave immediately.                                                                                                                                                                                                                      | 2020 |
+| He always says the truth.                                                                                                                                                                                                                              | 2020 |
+| Wealth is only means, the end is happiness.                                                                                                                                                                                                            | 2020 |
+| I doubt that he will come.                                                                                                                                                                                                                             | 2020 |
+| His daughter-in-law is a M.A. in English.                                                                                                                                                                                                              |      |
+| Rina has been deprived from her share in her father's property.                                                                                                                                                                                        |      |
+| All the books in the old library has perished.                                                                                                                                                                                                         |      |
+| The aggrieved man said that he will not forgive the wrong-doer.                                                                                                                                                                                        |      |
+| Despite of the doctor's advice. he smoked.                                                                                                                                                                                                             | 2019 |
+| The principal could not attend the meeting in account of illness.                                                                                                                                                                                      | 2019 |
+| In the court-room the advocate referred an old case.                                                                                                                                                                                                   | 2019 |
+| The old man was so weak to climb the stairs.                                                                                                                                                                                                           | 2019 |
+| My father has stopped living in the official quarter.                                                                                                                                                                                                  | 2019 |
+| They cannot issue the ticket unless you do not pay the fare.                                                                                                                                                                                           | 2019 |
+| My friend reached the airport on time to have a coffee before boarding.                                                                                                                                                                                | 2019 |
+| He was found guilty of stealing his employer.                                                                                                                                                                                                          | 2019 |
+| Sonu got a present from his father but he hasn't opened it.                                                                                                                                                                                            | 2019 |
+| I am obliged to serve him, isn't it ?                                                                                                                                                                                                                  | 2019 |
+| I would watch a football match than a cricket series.                                                                                                                                                                                                  | 2018 |
+| They were annoyed at not to be able to see the puppet show properly.                                                                                                                                                                                   | 2018 |
+| The economics of the plan is worrying the investors.                                                                                                                                                                                                   | 2018 |
+| He got up at 5 o'clock not to be late for the interview.                                                                                                                                                                                               | 2018 |
+| If they offered me the position, I shall decline it.                                                                                                                                                                                                   | 2018 |
+| I go to the work in afternoon.                                                                                                                                                                                                                         | 2018 |
+| Shocked of finding an unknown person, the army officer briskly caught hold of him.                                                                                                                                                                     | 2018 |
+| High population growing rate is one of the major reasons of poverty in India.                                                                                                                                                                          | 2018 |
+| He decided to reveal the corruption in his department to the media.                                                                                                                                                                                    | 2018 |
+| I would have waited for you at the station if I knew that you would come.                                                                                                                                                                              | 2018 |
+| Although my car is expensive, I had a lot of trouble with it.                                                                                                                                                                                          | 2018 |
+| He would have lent me some money if he was knowing that I had lost everything.                                                                                                                                                                         | 2017 |
+| No sooner the news reached him than he fainted.                                                                                                                                                                                                        | 2017 |
+| According to the Census Bureau, India will have a more problem.                                                                                                                                                                                        | 2017 |
+| Mr. Misra said that he is doing fine now.                                                                                                                                                                                                              | 2017 |
+| Non-teaching staffs of the college are agitating for their demands.                                                                                                                                                                                    | 2017 |
+| The President of France has left India yesterday.                                                                                                                                                                                                      | 2017 |
+| Rahul stays with his parents in the Railway quarter.                                                                                                                                                                                                   | 2017 |
+| He went on committing crime after crime and in spite of my best efforts I could not prevent him from doing so.                                                                                                                                         | 2017 |
+| To transport goods by the sea is cheaper than land.                                                                                                                                                                                                    | 2017 |
+| It is a penal offence bribing a public servant.                                                                                                                                                                                                        | 2017 |
+| - Despite of repeated reminders, the company has not responded.                                                                                                                                                                                        | 2015 |
+| - All the students will attend the function, wouldn't they?                                                                                                                                                                                            | 2015 |
+| - This is one of the best books that has been recently purchased for the library.                                                                                                                                                                      | 2015 |
+| - Flying on the northern part of India we could see the peak of the Everest.                                                                                                                                                                           | 2015 |
+| - Your friend is waiting for you since morning.                                                                                                                                                                                                        | 2015 |
+| - People expect a lot from an university scholar.                                                                                                                                                                                                      | 2015 |
+| - The sun is rising in the East everyday.                                                                                                                                                                                                              | 2015 |
+| - When we arrived at the station, the train already left.                                                                                                                                                                                              | 2015 |
+| - Neither the officer nor his PS were in the office.                                                                                                                                                                                                   | 2015 |
+| - The minister along with his wife are leaving for London.  (GE 2015.pdf, p.7)                                                                                                                                                                         | 2015 |
+|                                                                                                                                                                                                                                                        |      |
+| - I would rather die than begging alms.                                                                                                                                                                                                                | 2014 |
+| - Neither of the five players was selected.                                                                                                                                                                                                            | 2014 |
+| - The fisherman held several fish from the sea.                                                                                                                                                                                                        | 2014 |
+| - I asked him that how many brothers had he.                                                                                                                                                                                                           | 2014 |
+| - He cannot dare to come here.                                                                                                                                                                                                                         | 2014 |
+| - This is the man which killed his father.                                                                                                                                                                                                             | 2014 |
+| - No sooner had she arrived when the telegram came.                                                                                                                                                                                                    | 2014 |
+| - John is a tall boy, isn't it ?                                                                                                                                                                                                                       | 2014 |
+| - They have disposed off their farm house.                                                                                                                                                                                                             | 2014 |
+| - My hand writing is superior than any of yours.  (GE 2014.pdf, p.7)                                                                                                                                                                                   | 2014 |
+|                                                                                                                                                                                                                                                        |      |
+| - Nobody likes to be cheated, isn't it?                                                                                                                                                                                                                | 2013 |
+| - Choose only such friends whom you can trust.                                                                                                                                                                                                         | 2013 |
+| - He is a MA in Geology.                                                                                                                                                                                                                               | 2013 |
+| - They had left yesterday.                                                                                                                                                                                                                             | 2013 |
+| - We are looking forward to see you soon.                                                                                                                                                                                                              | 2013 |
+| - One of the file is lost.                                                                                                                                                                                                                             | 2013 |
+| - If he came early, you could have met him.                                                                                                                                                                                                            | 2013 |
+| - It was so cold that the water freezed.                                                                                                                                                                                                               | 2013 |
+| - Are there some more papers left to be signed?                                                                                                                                                                                                        | 2013 |
+| - We will be going to the church for Sunday Mass.  (GE 2013.pdf, p.5)                                                                                                                                                                                  | 2013 |
+|                                                                                                                                                                                                                                                        |      |
+| - I never remember to have met you anywhere.                                                                                                                                                                                                           | 2012 |
+| - He went to the Railway Station with a view to receive the guests.                                                                                                                                                                                    | 2012 |
+| - No sooner had he started writing the letter when he discovered that he forgot his spectacles at home.                                                                                                                                                | 2012 |
+| Neither the manager nor the secretary are present in the office.                                                                                                                                                                                       | 2012 |
+| - He asked Ram why your father had lost his temper.                                                                                                                                                                                                    | 2012 |
+| - The fireman could not succeed to rescue the child although he could put out the fire.                                                                                                                                                                | 2012 |
+| - The doctor told his patient that he will start the treatment only if he pays his fee.                                                                                                                                                                | 2012 |
+| - Ram is the tallest of all the other boys in the class.                                                                                                                                                                                               | 2012 |
+| - You don't want to marry her, isn't it?                                                                                                                                                                                                               | 2012 |
+| - Man and woman are waiting for you outside.  (GE 2012.pdf, p.8)                                                                                                                                                                                       | 2012 |
+|                                                                                                                                                                                                                                                        |      |
+| - You have made a blunder mistake.                                                                                                                                                                                                                     | 2011 |
+| - The newspaper came today morning.                                                                                                                                                                                                                    | 2011 |
+| - Neither Ram or Shyam was willing to do this work.                                                                                                                                                                                                    | 2011 |
+| - I am having a big house.                                                                                                                                                                                                                             | 2011 |
+| - My school is superior than his school.                                                                                                                                                                                                               | 2011 |
+| - I and you must do this work.                                                                                                                                                                                                                         | 2011 |
+| - He found himself in dire strait.                                                                                                                                                                                                                     | 2011 |
+| - Each one of us have to go out of the room.                                                                                                                                                                                                           | 2011 |
+| - I am seeing you after a long time.                                                                                                                                                                                                                   | 2011 |
+| - Women do not always like their mother-in-laws. (GE 2011.pdf, p.7)                                                                                                                                                                                    | 2011 |
+|                                                                                                                                                                                                                                                        |      |
+| - The women told me that there was no place in the compartment.                                                                                                                                                                                        | 2010 |
+| - Many computer professionals wear half pants these days.                                                                                                                                                                                              | 2010 |
+| - Mr. Amitabh Bachan is a tall gentleman.                                                                                                                                                                                                              | 2010 |
+| - During the vacation, try to spend some time with your family members.                                                                                                                                                                                | 2010 |
+| - The front side of the house looks impressive.                                                                                                                                                                                                        | 2010 |
+| - Whenever Mary visits the Marina, she takes a bath in the sea.                                                                                                                                                                                        | 2010 |
+| - The new servant takes troubles to do his work.                                                                                                                                                                                                       | 2010 |
+| - The class IV employees took insult at being called peons.                                                                                                                                                                                            | 2010 |
+| - As we climbed the mountain, we enjoyed the sceneries around.                                                                                                                                                                                         | 2010 |
+| - The students of third standard are learning a new poetry. 3 of 3 (GE 2010.pdf, p.3)                                                                                                                                                                  | 2010 |
+|                                                                                                                                                                                                                                                        |      |
+| - he told that he was tired                                                                                                                                                                                                                            | 2009 |
+| - Running down the road, I saw him enter the shop.                                                                                                                                                                                                     | 2009 |
+| - you think he is going and with who?                                                                                                                                                                                                                  | 2009 |
+| - id she would come, won't she?                                                                                                                                                                                                                        | 2009 |
+| - I'm not sure who is that person. There is very less sugar in that jar. I am really excited to visit my grandparents next Can you please give me advice on the best options for investment ? There is absolutely none I can trust. (GE 2009.pdf, p.6) | 2009 |
+|                                                                                                                                                                                                                                                        |      |
+| - The Principal thanked the manager for the trouble he had taken for collecting donations for the college building.                                                                                                                                    | 2003 |
+| - Rice grown in Doon valley is of rich quality.                                                                                                                                                                                                        | 2003 |
+| - Bread and butter are a standard combination.                                                                                                                                                                                                         | 2003 |
+| - Under no circumstances the accused can escape the punishment.  (GE 2003.pdf, p.3)                                                                                                                                                                    | 2003 |
+|                                                                                                                                                                                                                                                        |      |
+| - 'Ram doesn't like English movies! ' No I dO '                                                                                                                                                                                                        |      |
+| - The admission fee has been drastically reduced with a view to enable a large section of students to take the entrance test.                                                                                                                          | 2003 |
+| - I saw a dead snake running across the field.                                                                                                                                                                                                         | 2003 |
+| - The manager only chose such workers for his Company whom he could trust.                                                                                                                                                                             | 2003 |
+| - The Principal was pleased that the students do not violate the college rules.                                                                                                                                                                        | 2003 |
+| - Drinking fruit juice and vegetable soup is more preferable than eating junk food.  (GE 2003.pdf, p.4)                                                                                                                                                | 2003 |
+|                                                                                                                                                                                                                                                        |      |
+| - I am not remembering no where I left the book.                                                                                                                                                                                                       | 2001 |
+| - Sachin Tendulkar is too good cricketer.                                                                                                                                                                                                              | 2001 |
+| - Brian Lara is one of the finest batsmen in the world.                                                                                                                                                                                                | 2001 |
+| - I prefer tea than coffee.                                                                                                                                                                                                                            | 2001 |
+| - Us Indians have much to be proud of.                                                                                                                                                                                                                 | 2001 |
+| - No sooner the Principal entered the classroom the students stood up                                                                                                                                                                                  | 2001 |
+| - I have seen the Taj in 1980.                                                                                                                                                                                                                         | 2001 |
+| - When the pilot landed, he noticed that one of the wings was damaged.                                                                                                                                                                                 | 2001 |
+| - They have lost the match, isn՚t it?                                                                                                                                                                                                                  | 2001 |
+| - I consider him as a fool. (GE 2001.pdf, p.3)                                                                                                                                                                                                         | 2001 |
+|                                                                                                                                                                                                                                                        |      |
+| - I am believing what you tell me.                                                                                                                                                                                                                     | 2000 |
+| - I like Rita because she is too helpful.                                                                                                                                                                                                              | 2000 |
+| - What a fine weather.                                                                                                                                                                                                                                 | 2000 |
+| - Coffee keeps person awake.                                                                                                                                                                                                                           | 2000 |
+| - I want you and she to help me.                                                                                                                                                                                                                       | 2000 |
+| - Hardly he had left the house when the storm broke.                                                                                                                                                                                                   | 2000 |
+| - He was very too much happy to know that he had won a lottery.                                                                                                                                                                                        | 2000 |
+| - They demanded that the manager is dismissed                                                                                                                                                                                                          | 2000 |
+| - didn't you meet Kailash? Yest, I didn't.                                                                                                                                                                                                             | 2000 |
+| - The party comprises of Dinesh, Ramesh and Mohan. (GE 2000.pdf, p.3)                                                                                                                                                                                  | 2000 |
+|                                                                                                                                                                                                                                                        |      |
+| - He did nothing but laughed.                                                                                                                                                                                                                          | 1999 |
+| - Vimla talks a lot, isn՚t it?                                                                                                                                                                                                                         | 1999 |
+| - I shall help you after three-four days.                                                                                                                                                                                                              | 1999 |
+| - Old habits die hardly.                                                                                                                                                                                                                               | 1999 |
+| - When only five years old, my grandmother died.                                                                                                                                                                                                       | 1999 |
+| - A busy person has a little time to spare.                                                                                                                                                                                                            | 1999 |
+| - Milk is more preferable than tea.                                                                                                                                                                                                                    | 1999 |
+| - Dr. Sharma has gone to Lucknow last week.                                                                                                                                                                                                            | 1999 |
+| - The economist will discuss about the unemployment problem.                                                                                                                                                                                           | 1999 |
+| - I ordered for lunch. (GE 1999.pdf, p.3)                                                                                                                                                                                                              | 1999 |
+|                                                                                                                                                                                                                                                        |      |
+| - The wages of sin are death.                                                                                                                                                                                                                          | 1998 |
+| - One of your friends is waiting outside.                                                                                                                                                                                                              | 1998 |
+| - This officer is not used to take bribes.                                                                                                                                                                                                             | 1998 |
+| - Columbus had discovered America.                                                                                                                                                                                                                     | 1998 |
+| - If you will heat butter, it will melt.                                                                                                                                                                                                               | 1998 |
+| - The patient died before the doctor arrived.                                                                                                                                                                                                          | 1998 |
+| - Suresh as well as his colleagues is guilty.                                                                                                                                                                                                          | 1998 |
+| - May I take your leave now?                                                                                                                                                                                                                           | 1998 |
+| - To go or stay is entirely your own choice.                                                                                                                                                                                                           | 1998 |
+| - The child has been sick for three months now.                                                                                                                                                                                                        | 1998 |
+| - Only by chance he saw her on the way.                                                                                                                                                                                                                | 1998 |
+| - The weather is fairly better today.                                                                                                                                                                                                                  | 1998 |
+| - Samsher is as smart as his brother                                                                                                                                                                                                                   | 1998 |
+| - Everybody praised the leader, didn't he?                                                                                                                                                                                                             | 1998 |
+| - We must be true to our words  (GE 1998.pdf, p.3)                                                                                                                                                                                                     | 1998 |
 
 # Précis 
 
@@ -291,3 +642,64 @@
 | <p align="justify">- Indians are known for jealously preserving their cultural identity. They continue to cling to their norn]s of endogamy, marital stability and family solidarity, kin orientation, religion and mother tongue. They are always nostalgic about Indian food and their women tend to stick to their lovely saru. As for the mechanisms of their cultural preservation, mention must be made of temples and gurdwaras, practice of keerlan and akhand path, audio cassettes of devotional songs, video cassettes of Ramayan and Mahabharat, festivals and functions, and ethnic associations and organisations. What is more, even picnics provide occasions to reinforce old cultural practices. For instance, I was truly astonished to see antakshari (a verbal game in which the last letter of the verse recited by one participant has to be used as the starting letter of the verse by another participant) played in Sanskrit hymns in a picnic of Indians in Salt Lake City in USA. Overseas Indians adhere to their traditional culture so ostensibly that at times it appears that they are more Indian in their cultural orientations and practices than resident Indians in India. Take, for instance, the Sikhs who are quick to tske to modern ways in India but they tend to be rather orthodox abroad. Even those Indians who couldn't care less for their culture in India become quite observant of it in foreign lands. Why do Indians get so faithful to their culture in foreign lands while at home they seem to favour Western culture ? Several explanations come to mind. One, that they fmd in their culture a defence mechanism against a sense of insecurity in alien settings. Two, that they might be banking on their culture as a compensatory mechanism for the loss of status in foreign lands. Three, maybe there is something in the Indian culture - perhaps its adhesive quality - that accounts for it. Four, maybe it is a sense of pride of belonging to one of the oldest cultures of the world that makes them so reverent to it. Fifth, it may well be so because the immigrants get stuck to their conception of Indian culture of the time when they had left India and remain blissfully unaware of the changes it has undergone since then. As important as it is, the question of cultural identity of overseas Indians needs careful scrutiny. It involves several issues. The frst is the issue of how Indians abroad perceive their self-identity. Do they view themselves as Indians or as Punjabis, Gujaratis, etc. ? In other words, do they identify themselves in tern]s of pan-Indian identity or in tern]s of a parochial ethnic category. According to Fisher (1980) Indians have difficulty in organising as Indians. More often than not they tend to identify themselves in tern]s of narrow ethnic categories. By and large Fisher is righL The only thing I may add is that perhaps it is the context that detern]ines their self-identity. It seems that while dealing with the non~Indians they tend to take on pan-Indian identity. But when it comes to interacting among themselves their regional, linguistic or religious identities tske precedence. A second issue is how others look upon Indians. Are they viewed as Indians or as Asians ? That depends on several things including their relative numerical strength in the host county. Wherever Indians forni a substantial group, they are viewed as Indians having a distinctive identity. In the countries where their number is small and the ethnic groups of other nationalities are also present they tend to be bracketed with the other Asians. Even at the risk of sounding outrageous, it may be remarked that perhaps too much is made in the existing literature of the instinct of cultural preservation and identity of Indians in foreign settings. For one thing, perhaps every ethnic group ten(Ls to stick to its culture in strange surroundings about as fastidiously as do the Indians. Are Chinese immigrants any different from Indians ? It requires a comparative study of various immigrant communities, including Indians, to maintain that the Indians stand out among others. For another, there is no dearth of contradictory "evidence to show that any number of Indians have abandoned their culture in favour of the cultures of their adopted lands. Third, there is a generational context to it. While the first generation immigrants tend to stick to Indian culture with vigour, the second and subsequent generations give evidence of distancing from it. ==(731 words)==</p>                                                                                                                                                                                                                                       | 2019 |
 | <p align="justify">Education has not been of the kind that can help you towards happiness. It has not been of the kind that can make you capable of freedom. The aim of education in a democracy must be the same for all the people. Education must aim at making them all capable of freedom, for they are all to be free. Whatever education will achieve, this aim must be given to every person in proportion to his capacity to receive it. If education is necessary for one, it must be necessary for all. Only in this way can we hope to prevent the exploitation of one group by another. Only in this way can we develop a true community. The citizens must be able to understand one another. They must have a common culture. They must have the intellectual training needed to comprehend it and to communicate with those who share it. Education for freedom consists in transmitting to the rising generation the civilization they have inherited, together with the techniques by which it may be understood. No man or woman is equipped to be a ruler without this education. As liberal education helps us to establish a free community, so does it to preserve it. As Thomas F. Woodlock has said in the Wall Street Journal, "Democracy rests ultimately upon 'public opinion, as its base. Public opinion follows upon free speech, free interchange of ideas, of judgements, of opinions; it is generated by these things. Men interchange these things by words... . Sound logic it was that put grammar, logic, and rhetoric as preliminary to geometry, arithmetic, music, and astronomy in the scheme of the seven liberal arts in an age which was notable for the clearness of its thinking and the exactitude of its expression. Both these things are absolutely necessary for the functioning of democracy as the best fonn of government. If we are going to 'educate for democracy,, we had better find the right way to teach them." And the ability to read and write is the best defence against anti-democratic propaganda. Under the name of 'indoctrination of democracy, a host of lies is being propagated. When a person equipped with the liberal arts has critically studied the basic theoretical questions, he is proof against the. seductions of the New Order. The reason why we may justly fear such propaganda today is that we are uneducated. In addition to all the above merits, liberal education has yet another . it is the best vocational training. Vocational training of the usual sort trains hands. The ideal education for freedom is a liberal education in the liberal arts and the cultural heritage of the county. Since it is the ideal, we must aim at it for every citizen. Unless the citizen can master the liberal arts and the fundamental principles of a free society he cannot function as a member of a free community. He cannot help to keep the community as a free community. If we cannot give liberal education to every citizen in proportion to his capacity to receive it we might as well give up our hopes achieving a democratic community. We cannot insist on free men and at the same time say that we cannot educate our population for freedom. We cannot insist on a community and at the same time say that it is impossible to strengthen the basis of communication among our people. Individual happiness, good citizenship, and the improvement of society all depend on our success in helping the people to achieve liberal education. These objectives do not depend on our success in training people to earn a living or in adjusting them to their environment. What the world needs, what the county must have, is free minds. This does not mean minds loaded with archaic infonnation or equipped with obsolescent techniques. It means minds committed to the general good by good moral and intellectual habits. It means minds informed by principles derived from human experience through the ages, minds that will operate well no matter what waves of change beat upon them. If we are to admit everybody to citizenship we must ty to give everybody this kind of education. In so far as men are men they must have this education. Since in our society all men are politically equal, since all men are either rulers or the ruled, they must all be educated to be rulers and the ruled. If we cannot give them all this education, we may as well drop the pretence of democracy. We may as well admit that, though it was a good idea, it would not work.</p>                                                                                                                                                                                                                                                                                                              | 2018 |
 | <p align="justify">Two principal forms of the constitution are known to history — one is called unitary and the other is federal. The two essential characteristics of a unitary constitution are : (1) the supremacy of the central polity, and (2) the absence of subsidiary sovereign polities. On the contrary, a federal constitution is marked: (1) by the existence of a central polity and subsidiary polities side by side, and (2) by each being sovereign in the field assigned to it. In other words, federation means the establishment of a dual polity. The draft constitution is a federal constitution inasmuch as it establishes what may be a dual polity. This dual polity under the proposed constitution will consist of the Union at the centre and the States at the periphery, each endowed with sovereign powers to be exercised in the field assigned to them respectively by the constitution. This dual polity resembles the American Constitution. The American polity is also a dual polity, one of it is known as the Federal government and the other government of the States which correspond respectively to the Union government and the State governments of the draft constitution. Under the American Constitution the Federal government is not a mere league of the States nor are the States administrative units or agencies of the Federal government. In the same way, the Indian Constitution proposed in the draft constitution is not a league of States nor are the States administrative units or agencies of the Union government. Here, however, the similarities between the Indian and American Constitutions come to an end. The differences that distinguish them are more fundamental and glaring than the similarities between the two. The points of difference between the American federation and the Indian federation are mainly two. In the USA, this dual polity is followed by a dual citizenship. In the USA there is a citizenship of the USA. But there is also a citizenship of the State. No doubt the rigours of this double citizenship are much assuaged by the Fourteenth Amendment to the Constitution of the United States which prohibits the States from taking away the rights, privileges and immunities of the citizen of the United States. At the same time, as pointed out by William Anderson, in certain political matters, including the right to vote and to hold public office, the States may and do discriminate in favour of their own eitizens. This favouritism goes even further in many cases. Thus to obtain employment in the service of a State or Loeal government one is in most places required to be a local resident or citizen. Similarly, in the licensing of persons for the practice of such public professions as law and medicine, residence or citizenship in the State is frequently required and in business where regulation must necessarily be striet, as in the sale of liquor, and of stocks and bonds, similar requirements have been upheld. Each State has also certain rights in its own domain that it holds for the special advantage of its own citizens. Thus wild game and fish in a sense belong to the State. It is customary for the States to charge higher hunting and fishing license fees to non-residents than to its own citizens. The States also charge non-residents higher tuition in the State colleges and universities, and permit only residents to be admitted to their hospitals and asylums except in emergencies. In short, there are a number of rights that a State can grant to its own citizens or residents that it may and does legally deny to non-residents, or grant to non-residents only on more difficult terms than those imposed on residents. These advantages, given to the citizen in his own State, constitute the special rights of State citizenship. Taken all together, they amount to a considerable difference in rights between eitizens and non-citizens of the State. The transient and the temporary sojourner is everywhere under some special handicaps. The proposed Indian Constitution is a dual polity with a single citizenship. There is only one citizenship for the whole of India. It is Indian citizenship. There is no State citizenship. Every Indian has the same rights of citizenship, no matter in what State he resides. The dual polity of the proposed Indian Constitution differs from the dual polity of the USA in another respect. In the USA, the Constitutions of the Federal and the State governments are loosely connected. In describing the relationship between the Federal and the State governments, Bryce has said, "The central or national governments may be compared to a large building and a set of smaller buildings standing on the same ground, yet distinct from each other."</p> | 2017 |
+
+#
+
+| - He said, "I have passed the examination." (Change into indirect speech)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2014 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| - I have a piece of bread please? (Use the modal auxiliary May or Might)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2014 |
+| - Our generation is modern. (Use the superlative)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2014 |
+| - John Lennon died while he lived in New York. (Progressive or Continuous forms)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2014 |
+| - Germany invaded Poland in 1939, thus initiating the Second World War. (Change into passive voice)  (GE 2014.pdf, p.7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 2014 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |      |
+| - My father said, "Wait till I have finished all that I have to say." (Change into indirect speech)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2013 |
+| - I think that she has been caught in the traffic. (Use the modal auxiliary must')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2013 |
+| - This is one of his more readable books. (Use the superlative degree)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 2013 |
+| - If it rains, the college will close. (Use the past tense)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2013 |
+| - Road accidents injure many people everyday. (Change into passive voice)  (GE 2013.pdf, p.5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2013 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |      |
+| - Roma (write) letters when she (hear) a noise outside. (Rewrite the sentence using the correct form of the verbs in brackets).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2012 |
+| - It is necessary for you to submit the application today. (Rewrite the sentence using an appropriate modal auxiliary)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 2012 |
+| - India has won the cricket match. It is a great news. (Combine the two sentences starting with 'That'  (GE 2012.pdf, p.7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2012 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |      |
+| - He said to me, "When are you leaving for Mumbai ? I want to give you a small packet for my son." (Change the narration)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2012 |
+| - Someone has already paid the plumber his daily wages. (Change the voice)  (GE 2012.pdf, p.8)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2012 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |      |
+| - The test match was played in an amicable manner. (Change the voice of the verb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2011 |
+| - There was an accident. Ten people died in it. We saw the dead bodies. (Combine the sentences to form one complex sentence)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2011 |
+| - He was a thief. He stole the valuable ornaments. (Combine the sentences to form one simple sentence) (d) He was so rude that he did not even ask us to sit down. (Rewrite using "too")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2011 |
+| - He told her, "Do not telephone me again." (Change from direct speech to indirect speech) (GE 2011.pdf, p.6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2011 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |      |
+| - The judgement was heard with rapt attention (Change the voice of the verb) .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2010 |
+| - The Kashmir problem is too complex to allow any amicable solution (Rewrite using "so ... That" ) ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2010 |
+| - The government banned all processions. Yet, the defiant workers took out a long procession (Combine the sentences to form 'One simple sentence' ) .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2010 |
+| - The high command ousted the rebels. They formed a new party, They urged their friends also to resign from the old party (Combine the sentences to form one complex sentence) .  (GE 2010.pdf, p.3)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2010 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2010 |
+| - Someone switched on the light and opened the door. (Change into the passive voice)  (GE 2009.pdf, p.5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2010 |
+| - he is so weak that he can not even sit up ( rewrite using too) - if you speak the truth , you will be rewarded ( rewrite as a compound sentence)  (GE 2009.pdf, p.5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 2010 |
+| - The work must be completed. There must be absolutely no delay. (Combine the sentences to form one simple sent                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2010 |
+| - The teacher was very ill. The students hear a the news. They went to see him at the hos sita (Combine the sentences to form complex sentence)  (GE 2009.pdf, p.6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2010 |
+# 
+
+| - Supply the correct forms of verbs given in parentheses in the following passage. Please write correct verb form in your answer book against numbers given in parentheses; do not reproduce the entire passage :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| - Inquiry revealed that the smuggling (1. Go) on for a long time, but the actual offence   detected (2. Involve) a trifling sum. We went to Parsi Rustomji՚s counsel who (3. Persue) the papers and said, The case (4. Try) bya jury and a Natal jury will be the last (5. Acquit) an Indian. But 1 (6. Not give up) hope. Gandhiji (7. Not know) this counsel intimately, and contrary to the counsel՚s opinion, he advised Rustomji to confess his offence. Rustomji was a brave man, but his courage failed him for the moment. His name and fame were at stake. He surmised where he (8. Be) if the edifice he (9. Rear) with such care and labour (10. Collapse) . (GE 2003.pdf, p.3)                                                                                   | 2003 |
+| - Perhaps, the greatest single force in modern poetry, Thomas Stearns Eliot (I born) in St. Louis, Missouri in 1888. He (ii educate) at Harvard and Sorbonne.In his magnus opus, The Waste Land he (iii weave) the myth of the Fisher King and the Legend of the Grail and archetypal patterns like death in life, journey, quest and the fatal woman into the fabric of his poem. Eliot՚s style (iv be) highly allusive, and there (v be) thirty four known allusions in The Wast Land. As a playwright he (vi revive) the ancient verse form of the Greeks and (vii give) it a contemporary setting. Heir to Matthew Arnold in criticism he (viii break) fresh ground by (ix widen) both the functions and frontiers of criticism. He (x die) in 1965.  (GE 2001.pdf, p.3) | 2001 |
+| - Albert Camus, an Algerian writer who (i die) some time age (ii note) , for his symbols of the absurd hero. When he (iii write) . Camus (iv draw) upon mythology, history, fiction, and drama in order (v illustrate) his absurdism. Camus (vi choose) Sisyphus as the absurd hero in classic form. According to legend, Sisyphys (vii accuse) by the gods of (viii steal) their secrets. The gods condemned him to an eternity of (ix push) a rock to the top of a bill and (x see) it roll down the slope again. (GE 2000.pdf, p.3)                                                                                                                                                                                                                                       | 2000 |
+| - Life (i be) full of surprises, people say, and they (ii be) right. When I (iii arrive) in India last year, I (iv be) a bachelor. I (v fly) into the airport without a care in the world. My family back home (vi give) me all sorts of advice, which I was determined to forget. In the terminal I (vii have) to wait around for my baggage, which consisted of an oversize trunk, a couple of suitcases, and three small bags. White (viii wait) , a beautiful blond young girl walked by. I was so (ix take) by her that I (x tip) over another woman.  (GE 1999.pdf, p.3)                                                                                                                                                                                               | 1999 |
+# 
+
+| - If you do not hurry, you will miss the bus (Rewrite using unless.) . 1998                                                | 1998 |
+| -------------------------------------------------------------------------------------------------------------------------- | ---- |
+| - The man is so tall that he can reach the ceiling (Rewrite using ‘enough’ ) . 1998                                        | 1998 |
+| - Govind is blind one eye (Fill in the blank with the correct preposition.) . 1998                                         | 1998 |
+| - The visitor said, ‘Could I have a cup of tea?’ (Change this into reported speech.) 1998                                  | 1998 |
+| - Your silence proves that you are guilty (Change into a simple sentence.) 1998                                            | 1998 |
+|                                                                                                                            |      |
+| #                                                                                                                          |      |
+|                                                                                                                            |      |
+| - I know him. (Change into passive voice)                                                                                  | 2015 |
+| - The stranger said, "Could you tell me where the post office is ?" (Change into indirect speech)                          | 2015 |
+| - I did not spend as much money as you. (Change into comparative degree)                                                   | 2015 |
+| - You are allowed into the club only if you are a member. (Rewrite the sentence using "unless")                            | 2015 |
+| - Join the two simple sentences to make one complex sentence. We enjoyed our holiday. It rained a lot.  (GE 2015.pdf, p.6) | 2015 |

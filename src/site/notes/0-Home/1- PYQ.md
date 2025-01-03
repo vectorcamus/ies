@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-Home/1- PYQ/","updated":"2025-01-02T21:32:02.819+05:30"}
+{"dg-publish":true,"permalink":"/0-Home/1- PYQ/","updated":"2025-01-03T10:14:19.774+05:30"}
 ---
 
 
@@ -26,7 +26,7 @@
 | GE 1  | [[Theory of Distribution\|Theory of Distribution]]                                     |
 | GE 1  | [[2- Themes/Welfare Economics\|Welfare Economics]]                                          |
 | GE 1  | [[2- Themes/Mathematics\|Mathematics]]                                                |
-| GE 1  | [[2- Themes/Statistical and Econometrics\|Statistical and Econometrics]]                               |
+| GE 1  | [[2- Themes/Statistics and Econometrics\|Statistics and Econometrics]]                               |
 | GE 2  | [[2- Themes/Economic Thought\|Economic Thought]]                                           |
 | GE 2  | [[2- Themes/Concept of National Income and Social Accounting\|Concept of National Income and Social Accounting]]           |
 | GE 2  | [[2- Themes/Theory of Employment, Output, Inflation, Money and Finance\|Theory of Employment, Output, Inflation, Money and Finance]] |
