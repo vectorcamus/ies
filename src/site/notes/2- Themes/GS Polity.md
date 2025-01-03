@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2- Themes/GS Polity/","updated":"2025-01-01T21:14:51.107+05:30"}
+{"dg-publish":true,"permalink":"/2- Themes/GS Polity/"}
 ---
 
 

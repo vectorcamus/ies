@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1- PYQ/General English/","updated":"2025-01-03T11:38:56.417+05:30"}
+{"dg-publish":true,"permalink":"/1- PYQ/General English/"}
 ---
 
 # Essay 

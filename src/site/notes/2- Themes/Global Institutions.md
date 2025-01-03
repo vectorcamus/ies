@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2- Themes/Global Institutions/","updated":"2025-01-01T21:15:12.963+05:30"}
+{"dg-publish":true,"permalink":"/2- Themes/Global Institutions/"}
 ---
 
 

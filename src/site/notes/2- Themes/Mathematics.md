@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2- Themes/Mathematics/","updated":"2025-01-02T21:30:23.585+05:30"}
+{"dg-publish":true,"permalink":"/2- Themes/Mathematics/"}
 ---
 
 <span style="background:#fff88f">Mathematical , Quantitative Economics</span>

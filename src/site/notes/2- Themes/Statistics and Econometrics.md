@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2- Themes/Statistics and Econometrics/","updated":"2025-01-02T21:30:50.611+05:30"}
+{"dg-publish":true,"permalink":"/2- Themes/Statistics and Econometrics/"}
 ---
 
 <span style="background:#fff88f">Statistical and Econometric Methods and Income Distribution</span>
