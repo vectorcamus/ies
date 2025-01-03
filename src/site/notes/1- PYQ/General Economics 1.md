@@ -12,6 +12,8 @@
 
 # Theory of Consumer Demand
 
+[Drive Link](https://drive.google.com/file/d/1CeYuuwLwkTud85ryyOZWTORjDbRTKRsY/view?usp=sharing)
+
 > [!NOTE] Syllabus
 > - Cardinal utility Analysis :
 > 	- Marginal utility and demand, 

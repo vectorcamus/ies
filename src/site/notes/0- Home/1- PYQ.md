@@ -21,7 +21,7 @@
 
 | Paper | Topic                                                          |
 | ----- | -------------------------------------------------------------- |
-| GE 1  | [[2- Themes/Theory of Consumer Demand\|Theory of Consumer Demand]]                                  |
+| GE 1  | [[2- Themes/Theory of Consumer Demand\|2- Themes/Theory of Consumer Demand]]                                  |
 | GE 1  | [[2- Themes/Theory of Production\|Theory of Production]]                                       |
 | GE 1  | [[2- Themes/Theory of Value\|Theory of Value]]                                            |
 | GE 1  | [[2- Themes/Theory of Distribution\|Theory of Distribution]]                                     |
