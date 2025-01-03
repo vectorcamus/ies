@@ -48,10 +48,7 @@
 | 19    | State briefly the key propositions of Monetarists School of Macro Economics.                                                                                       | Monetarist   | monetary school of thought                    | 2010 | 15      | 150   |
 |       | Distinguish between Mercantilism and State Socialism.                                                                                                              |              |                                               | 2024 | 2.5+2.5 | 100   |
 |       | The economic ideas of J.S. Mill are essentially rooted in the economics of Adam Smith and David Ricardo. Explain.                                                  |              |                                               | 2024 | 15      | 200   |
-|       |                                                                                                                                                                    |              |                                               |      |         |       |
-|       |                                                                                                                                                                    |              |                                               |      |         |       |
-|       |                                                                                                                                                                    |              |                                               |      |         |       |
-|       |                                                                                                                                                                    |              |                                               |      |         |       |
+
 
 
 
