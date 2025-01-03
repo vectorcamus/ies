@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/0-Home/2- Syllabus/"}
 ---
 
+| Version  | Link   |
+| -------- | ------ |
+| Markdown | Github |
+| PDF      | Drive  |
+| Official | 2024   |
 
 # GE 1
 

@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/2- Themes/GS History/"}
 ---
 
+| Version  | Link   |
+| -------- | ------ |
+| Markdown | Github |
+| PDF      | Drive  |
+
 
 ### Why Did Harappa Civilisation degenerate and finally collapse ? 
 

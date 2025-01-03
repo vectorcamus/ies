@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/2- Themes/Economic Thought/"}
 ---
 
+| Version  | Link   |
+| -------- | ------ |
+| Markdown | Github |
+| PDF      | Drive  |
 
 
 > [!NOTE] Syllabus
