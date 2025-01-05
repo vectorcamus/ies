@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/draft/"}
+---
+
+
+
+|     | **Suppose a n value series has standard deviation of σ. The standard deviation of would be**:<br>	A) $\sigma$ <br>	B) $\sigma +k$ <br>	C) $\sigma - k$ <br>	D) $\sigma k$                                         |                                                                                                                                                                           | **Suppose a n value series has standard deviation of σ. The standard deviation of would be**:<br>	A) $\sigma$ <br>	B) $\sigma +k$ <br>	C) $\sigma - k$ <br>	D) $\sigma k$ |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     | Let $x_1 ,x_2 ,x_3 , \dots , x_n$ be a random sample from $N(\mu,\sigma^2 )$. What is the sampling distribution of<br>	A) F-distribution <br>	B) t-distribution<br>	C) z-distribution <br>	D) Normal distribution | **Suppose a n value series has standard deviation of σ. The standard deviation of would be**:<br>	A) $\sigma$ <br>	B) $\sigma +k$ <br>	C) $\sigma - k$ <br>	D) $\sigma k$ | **Suppose a n value series has standard deviation of σ. The standard deviation of would be**:<br>	A) $\sigma$ <br>	B) $\sigma +k$ <br>	C) $\sigma - k$ <br>	D) $\sigma k$ |
+|     | **Suppose a n value series has standard deviation of σ. The standard deviation of would be**:<br>	A) $\sigma$ <br>	B) $\sigma +k$ <br>	C) $\sigma - k$ <br>	D) $\sigma k$                                         |                                                                                                                                                                           |                                                                                                                                                                           |
+
+| **Suppose a n value series has standard deviation of σ. The standard deviation of would be**:<br>	A) $\sigma$ <br>	B) $\sigma +k$ <br>	C) $\sigma - k$ <br>	D) $\sigma k$                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Let $x_1 ,x_2 ,x_3 , \dots , x_n$ be a random sample from $N(\mu,\sigma^2 )$. What is the sampling distribution of<br>	A) F-distribution <br>	B) t-distribution<br>	C) z-distribution <br>	D) Normal distribution |
+| **Suppose a n value series has standard deviation of σ. The standard deviation of would be**:<br>	A) $\sigma$ <br>	B) $\sigma +k$ <br>	C) $\sigma - k$ <br>	D) $\sigma k$                                         |
