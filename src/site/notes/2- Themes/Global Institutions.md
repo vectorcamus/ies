@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2- Themes/Global Institutions/"}
 ---
 
-# Global Institutions
+
 
 > [!NOTE] Syllabus
 > - UN agencies dealing with economic aspects,

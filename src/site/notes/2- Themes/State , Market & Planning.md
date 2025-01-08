@@ -6,7 +6,7 @@
 | -------- | ------ |
 | Markdown | Github |
 | PDF      | Drive  |
-# State, Market and Planning
+
 
 > [!NOTE] Syllabus
 > - Planning in a developing economy,
