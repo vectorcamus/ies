@@ -8,7 +8,7 @@
 | PDF      | Drive  |
 
 
-> [!NOTE] Syllabus
+> [!NOTE]- Syllabus
 > - Inter-personal comparison and aggression problem, 
 > - Public goods and externalities,   
 > - Divergence between social and private welfare, 
