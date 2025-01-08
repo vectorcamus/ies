@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/4- Answers/What steps can be taken to correct problem of adverse selection ?/"}
 ---
 
+---
+
 <span style="background:#fff88f">To overcome adverse selection between principal and agent ;  it is necessary to</span> 
 
 1. Reduce higher risk agents to eliminate negative externality created by them. 
@@ -26,5 +28,5 @@
 
 
 
-2. <span style="background:#fdbfff">Signalling</span> : To attract Lower risk agents an  incentive mechanism can be created to distinguish between low and high risk agents. Here signalling can be  used by the **informed side** to take actions to reduce the information asymmetry. For example, high skill workers getting certifications to signal their productivity so as earn a higher wage or some Pareto improvement.  Any one who chooses not to take test will be correctly  considered as not better than worst worker. 
+2. <span style="background:#fdbfff">Signalling</span> : To attract Lower risk agents an  incentive mechanism can be created to distinguish between low and high risk agents. Here signalling can be  used by the **informed side** to take actions to reduce the information asymmetry. For example, high skill workers getting certifications to signal their productivity so they can  earn a higher wage ( Pareto improvement ).  Any one who chooses not to take test will be correctly  considered as not better than worst worker. 
 
