@@ -4,12 +4,12 @@
 
 ---
 
-<span style="background:#fff88f">To overcome adverse selection between principal and agent ;  it is necessary to</span> 
+To overcome adverse selection between principal and agent ;  it is necessary to
 
 1. Reduce higher risk agents to eliminate negative externality created by them. 
 2. Increase quantity of lower risk agents significantly to drive up "expected pay off" of principal to non negative values. 
 
-<span style="background:#fff88f">This can be done by creating **at least two** separate equilibriums in form of menu of contracts. </span>
+This can be done by creating at least two separate equilibriums in form of menu of contracts.
 
 **Step 1** : <span style="background:#b1ffff">Design contracts with restrictive rules</span> . 
 
