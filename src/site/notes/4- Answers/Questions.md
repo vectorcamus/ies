@@ -4,7 +4,7 @@
 
 
 
-| No. | Questions                                                             |
-| --- | --------------------------------------------------------------------- |
-| 1   | [[4- Answers/What steps can be taken to correct problem of adverse selection ?\|What steps can be taken to correct problem of adverse selection ?]] |
+| No. | Questions                                                                |
+| --- | ------------------------------------------------------------------------ |
+| 1   | [[4- Answers/1\|What steps can be taken to correct problem of adverse selection ?]] |
 
