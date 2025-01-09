@@ -74,18 +74,18 @@ Source : Satish Chandra
 
 #draft
 
-| No  | Chapter                                                                                                             |              |
-| --- | ------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 03  | South India: The Chola Empire (900-1200)                                                                            | Probable ?   |
-| 04  | Economic and Social Life, Education and Religious Beliefs (800-1200)                                                |              |
-| 08  | Government, and Economic and Social Life under the Delhi Sultanat                                                   |              |
-| 09  | <span style="background:#ff4d4f">The Age of Vijayanagara and the Bahmanids, and the Coming of the Portuguese</span> | Probable ?   |
-| 11  | Cultural Development in India (1300–1500)                                                                           |              |
-| 13  | Consolidation of the Mughal Empire                                                                                  |              |
-| 15  | India in the First Half of the Seventeenth Century                                                                  |              |
-| 16  | <span style="background:#d3f8b6">Economic and Social Life under the Mughals</span>                                  | Full Chapter |
-| 17  | Cultural and Religious Developments                                                                                 |              |
-| 18  | <span style="background:#d3f8b6">Climax and Disintegration of the Mughal Empire - I.</span>                         |              |
-| 19  | <span style="background:#d3f8b6">Climax and Disintegration of the Mughal Empire - II.</span>                        |              |
-| 20  | Assessment and Review.                                                                                              |              |
+| No  | Chapter                                                                                                             |                                      |
+| --- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 03  | South India: The Chola Empire (900-1200)                                                                            | Probable ?                           |
+| 04  | Economic and Social Life, Education and Religious Beliefs (800-1200)                                                |                                      |
+| 08  | Government, and Economic and Social Life under the Delhi Sultanat                                                   |                                      |
+| 09  | <span style="background:#ff4d4f">The Age of Vijayanagara and the Bahmanids, and the Coming of the Portuguese</span> | Probable ?                           |
+| 11  | Cultural Development in India (1300–1500)                                                                           |                                      |
+| 13  | <span style="background:#d3f8b6">Consolidation of the Mughal Empire</span>                                          | Full Chapter                         |
+| 15  | India in the First Half of the Seventeenth Century                                                                  |                                      |
+| 16  | <span style="background:#d3f8b6">Economic and Social Life under the Mughals</span>                                  | Full Chapter                         |
+| 17  | Cultural and Religious Developments                                                                                 |                                      |
+| 18  | <span style="background:#d3f8b6">Climax and Disintegration of the Mughal Empire - I.</span>                         | Aurangzeb's Religious Policy         |
+| 19  | <span style="background:#d3f8b6">Climax and Disintegration of the Mughal Empire - II.</span>                        | Decline: Responsibility of Aurangzeb |
+| 20  | Assessment and Review.                                                                                              |                                      |
 
