@@ -3,7 +3,6 @@
 ---
 
 
-
  - To overcome adverse selection between principal and agent ;  it is necessary to 
 
 	1. Reduce higher risk agents to reduce negative externality created by them. 
@@ -21,14 +20,3 @@
 
 <span style="background:rgba(92, 92, 92, 0.2)">Word Count</span> : ~ $210$
 <span style="background:rgba(92, 92, 92, 0.2)">Answer Quality</span> : $2.5/10$
-
-
-
----
-
-> [!NOTE] <span style="background:rgba(140, 140, 140, 0.12)">Extra Information </span>
-> 
-> ![Pasted image 20250109090229.png](/img/user/0-%20Files/0-%20Images/Pasted%20image%2020250109090229.png)
-> 
-> <font color="#8064a2">Two individuals face identical consumption prospects at A. Low-risk individuals can buy insurance at a rate reflected by AE; high-risk individuals must pay the rate reflected by AF. If insurers cannot distinguish among individuals, high-risk people will choose AE -type policies and cause them to be unprofitable. Low-risk individuals will be made worse off by the absence of such policies</font>.
-
