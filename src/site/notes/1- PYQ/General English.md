@@ -12,46 +12,46 @@
 
 | Essay                                                                                               | Theme                                          | Year |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ---- |
-| Leisure is an industry today                                                                        | Sector                                         | 2024 |
+| Culture and Society feed each other.                                                                | Culture                                        | 2023 |
+| Cultural pluralism in the Indian context.                                                           | Culture                                        | 2021 |
+| Family and Globalisation.                                                                           | Culture                                        | 2017 |
+| Can Artificial Intelligence Replace Human Agency .                                                  | Digital                                        | 2022 |
+| Prospects of digital revolution.                                                                    | Digital                                        | 2021 |
+| Effect of Social Media on Youth                                                                     | Digital                                        | 2020 |
+| Pros and Cons of online education and examinations                                                  | Digital                                        | 2018 |
+| Books vs e-Books                                                                                    | Digital                                        | 2017 |
+| Role of an Effective Opposition in Democracy                                                        | Governance                                     | 2020 |
+| Accountability, not mere stability, essential for good governance                                   | Governance                                     | 2018 |
+| Responsibility of news media in India                                                               | Media                                          | 2019 |
+| Social Media attains credibility with objectivity and humanity                                      | Media                                          | 2018 |
+| Uses and Abuses of Sting operations in India                                                        | Media                                          | 2017 |
 | Home is a state of mind.                                                                            | Mental Health                                  | 2024 |
 | Motivation is what gets you started, habit is what keeps you going.                                 | Mental Health                                  | 2024 |
-| Sustainable development is a contradiction in terms                                                 | Sustanibility                                  | 2024 |
-| Investing in women accelerates progress                                                             | <span style="background:#d3f8b6">Women</span>  | 2024 |
-| Culture and Society feed each other.                                                                | Culture                                        | 2023 |
 | Mental Healthcare for all.                                                                          | Mental Health                                  | 2023 |
 | Nature Nurtures when Nurtured.                                                                      | Mental Health                                  | 2023 |
-| Animal Rights vis-a-vis Human Rights                                                                | <span style="background:#fff88f">Rights</span> | 2023 |
-| Prospects of Women Entrepreneurship in India                                                        | <span style="background:#d3f8b6">Women</span>  | 2023 |
-| Can Artificial Intelligence Replace Human Agency .                                                  | Digital                                        | 2022 |
-| Make in India . Big Boost to Industry and Employment.                                               | Sector                                         | 2022 |
-| Right to Privacy : Intrinsic to Life and Liberty                                                    | <span style="background:#fff88f">Rights</span> | 2022 |
-| Significance of Renewable Energy Sources in the context of Global climate change.                   | Sustanibility                                  | 2022 |
-| Women's participation in Sports is still a challenge in India.                                      | <span style="background:#d3f8b6">Women</span>  | 2022 |
-| Cultural pluralism in the Indian context.                                                           | Culture                                        | 2021 |
-| Prospects of digital revolution.                                                                    | Digital                                        | 2021 |
-| Economic growth in the post-pandemic world.                                                         | Sector                                         | 2021 |
-| Water security for a sustainable future.                                                            | Sustanibility                                  | 2021 |
-| Compensating women for household work.                                                              | <span style="background:#d3f8b6">Women</span>  | 2021 |
-| Effect of Social Media on Youth                                                                     | Digital                                        | 2020 |
-| Role of an Effective Opposition in Democracy                                                        | Governance                                     | 2020 |
 | Life is Action, not Contemplation.                                                                  | Mental Health                                  | 2020 |
-| Effects of Global Warming                                                                           | Sustanibility                                  | 2020 |
-| Education as a Means to Women's Empowerment                                                         | <span style="background:#d3f8b6">Women</span>  | 2020 |
-| Responsibility of news media in India                                                               | Media                                          | 2019 |
+| Animal Rights vis-a-vis Human Rights                                                                | <span style="background:#fff88f">Rights</span> | 2023 |
+| Right to Privacy : Intrinsic to Life and Liberty                                                    | <span style="background:#fff88f">Rights</span> | 2022 |
 | Can the Reservation Policy ensure social justice ?                                                  | <span style="background:#fff88f">Rights</span> | 2019 |
 | Free speech as a democratic right                                                                   | <span style="background:#fff88f">Rights</span> | 2019 |
-| Hazards of pollution and possible solutions.                                                        | Sustanibility                                  | 2019 |
-| Representation of women in Indian cinema                                                            | <span style="background:#d3f8b6">Women</span>  | 2019 |
-| Pros and Cons of online education and examinations                                                  | Digital                                        | 2018 |
-| Rural Sector's potential to contribute to the Indian economy                                        | Sector                                         | 2018 |
-| Accountability, not mere stability, essential for good governance                                   | Governance                                     | 2018 |
-| Social Media attains credibility with objectivity and humanity                                      | Media                                          | 2018 |
-| Effective Centralised Enforcement Agency necessary to prevent harassment and violence against women | <span style="background:#d3f8b6">Women</span>  | 2018 |
-| Family and Globalisation.                                                                           | Culture                                        | 2017 |
-| Books vs e-Books                                                                                    | Digital                                        | 2017 |
-| Uses and Abuses of Sting operations in India                                                        | Media                                          | 2017 |
 | Rights of Persons with Disabilities in India                                                        | <span style="background:#fff88f">Rights</span> | 2017 |
+| Leisure is an industry today                                                                        | Sector                                         | 2024 |
+| Make in India . Big Boost to Industry and Employment.                                               | Sector                                         | 2022 |
+| Economic growth in the post-pandemic world.                                                         | Sector                                         | 2021 |
+| Rural Sector's potential to contribute to the Indian economy                                        | Sector                                         | 2018 |
 | Sports bodies should be governed by Sportspersons.                                                  | Sports                                         | 2017 |
+| Sustainable development is a contradiction in terms                                                 | Sustanibility                                  | 2024 |
+| Significance of Renewable Energy Sources in the context of Global climate change.                   | Sustanibility                                  | 2022 |
+| Water security for a sustainable future.                                                            | Sustanibility                                  | 2021 |
+| Effects of Global Warming                                                                           | Sustanibility                                  | 2020 |
+| Hazards of pollution and possible solutions.                                                        | Sustanibility                                  | 2019 |
+| Investing in women accelerates progress                                                             | <span style="background:#d3f8b6">Women</span>  | 2024 |
+| Prospects of Women Entrepreneurship in India                                                        | <span style="background:#d3f8b6">Women</span>  | 2023 |
+| Women's participation in Sports is still a challenge in India.                                      | <span style="background:#d3f8b6">Women</span>  | 2022 |
+| Compensating women for household work.                                                              | <span style="background:#d3f8b6">Women</span>  | 2021 |
+| Education as a Means to Women's Empowerment                                                         | <span style="background:#d3f8b6">Women</span>  | 2020 |
+| Representation of women in Indian cinema                                                            | <span style="background:#d3f8b6">Women</span>  | 2019 |
+| Effective Centralised Enforcement Agency necessary to prevent harassment and violence against women | <span style="background:#d3f8b6">Women</span>  | 2018 |
 
 # Paragraph 
 
