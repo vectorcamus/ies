@@ -432,7 +432,7 @@
 | “Mundell-Fleming model brings about internal and external balance through the equality between IS-LM-BP schedules.” Explain.                                                                                                                                                                                                                                                                                            | <span style="background:#d2cbff">Mundell-Fleming Model of Balance of Payments</span>            |                    | 2021 | 15    | 200   |
 
 
-# Global Institutions
+# Global Institutions 🥬
 
 > [!NOTE] Syllabus
 > - UN agencies dealing with economic aspects,

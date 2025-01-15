@@ -8,7 +8,7 @@
 | PDF      | Drive                                                                                                     |
 
 
-# History of Development and Planning : 
+# History of Development and Planning  
 
 > [!NOTE] Syllabus
 > 
